@@ -9,9 +9,9 @@
     <version>1.0.0</version>
     <packaging>jar</packaging>
 
-    <name>Maven core</name>
-    <description>List of Countries and States</description>
-    <url>http://maven.apache.org</url>
+    <name>Country List</name>
+    <description>Library for Getting Country and State lists</description>
+    <url>https://github.com/imalhasaranga/CountryList</url>
 
     <licenses>
         <license>
@@ -21,9 +21,21 @@
         </license>
     </licenses>
 
+    <developers>
+        <developer>
+            <name>imal hasaranga</name>
+            <email>imaa95@gmail.com</email>
+            <organization>imalhasaranga</organization>
+            <organizationUrl>https://github.com/imalhasaranga/CountryList</organizationUrl>
+        </developer>
+    </developers>
+
     <scm>
-        <url>https://svn.apache.org/viewvc/maven</url>
+        <connection>scm:git:git@github.com:imalhasaranga/CountryList.git</connection>
+        <developerConnection>scm:git@github.com:imalhasaranga/CountryList.git</developerConnection>
+        <url>https://github.com/imalhasaranga/CountryList/tree/master</url>
     </scm>
+
 
     <dependencies>
         <dependency>
@@ -51,7 +63,6 @@
             </plugin>
         </plugins>
     </build>
-
     <distributionManagement>
         <repository>
             <id>bintray-imalhasaranga365-CountryList</id>
@@ -59,4 +70,5 @@
             <url>https://api.bintray.com/maven/imalhasaranga365/CountryList/country-list-core/;publish=1</url>
         </repository>
     </distributionManagement>
+
 </project>
