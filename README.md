@@ -6,24 +6,23 @@ Utility Maven Library for Getting the com.imalhasaranga.Countries and Correspond
 
 ````xml
  <dependency>
-    <groupId>com.imalhasaranga</groupId>
-    <artifactId>country-list</artifactId>
-    <version>1.0.0</version>
-    <type>pom</type>
+     <groupId>com.imalhasaranga</groupId>
+     <artifactId>country-list</artifactId>
+     <version>1.1.0</version>
  </dependency>
 ````
 
 ###Use
 
-````java
+````
 
-  com.imalhasaranga.Countries countries = com.imalhasaranga.Countries.getInstance();
+  Countries countries = Countries.getInstance();
         //All com.imalhasaranga.Countries
-  List<com.imalhasaranga.Country> countryList =  countries.getCountryList();
+  List<Country> countryList =  countries.getCountryList();
         //Single com.imalhasaranga.Country by Alpha 2 code
-  com.imalhasaranga.Country country = countries.getCountryByAlpha2Code("US");
+  Country country = countries.getCountryByAlpha2Code("US");
         //com.imalhasaranga.State info
-  List<com.imalhasaranga.State> countryStates = country.getStates();
+  List<State> countryStates = country.getStates();
 
 
 ````
