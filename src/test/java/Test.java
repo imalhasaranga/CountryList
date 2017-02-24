@@ -1,5 +1,7 @@
-import java.util.Arrays;
-import java.util.Collections;
+import com.imalhasaranga.Countries;
+import com.imalhasaranga.Country;
+import com.imalhasaranga.State;
+
 import java.util.List;
 
 /**
@@ -8,10 +10,13 @@ import java.util.List;
 public class Test {
 
     public static void main(String[] args) {
-        Countries countryx = Countries.getInstance();
-        System.out.println(countryx.getCountryList().size());
-        Country country = countryx.getCountryByAlpha2Code("US");
-        System.out.println(country.getName());
-        System.out.println(Arrays.toString(country.getStates().toArray()));
+        Countries countries = Countries.getInstance();
+        //All Countries
+        List<Country> countryList =  countries.getCountryList();
+        //Single Country by Alpha 2 code
+        Country country = countries.getCountryByAlpha2Code("US");
+        //State info
+        List<State> countryStates = country.getStates();
+
     }
 }
