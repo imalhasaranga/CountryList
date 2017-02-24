@@ -8,7 +8,7 @@ Utility Maven Library for Getting the com.imalhasaranga.Countries and Correspond
  <dependency>
      <groupId>com.imalhasaranga</groupId>
      <artifactId>country-list</artifactId>
-     <version>1.1.0</version>
+     <version>1.1.1</version>
  </dependency>
 ````
 

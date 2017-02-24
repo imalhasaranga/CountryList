@@ -4,7 +4,9 @@ import com.fasterxml.jackson.core.type.TypeReference;
 import com.fasterxml.jackson.databind.ObjectMapper;
 
 import java.io.File;
-import java.util.*;
+import java.io.InputStream;
+import java.net.URL;
+import java.util.List;
 
 /**
  * Created by imal365 on 2/23/17.
@@ -17,9 +19,8 @@ public class Countries {
 
     private Countries() {
         try {
-            ClassLoader classLoader = getClass().getClassLoader();
-            File json = new File(classLoader.getResource("countries.json").getFile());
-            this.countryList = map.readValue(json, new TypeReference<List<Country>>() {
+            InputStream stream = Countries.class.getResourceAsStream("/countries.json");
+            this.countryList = map.readValue(stream, new TypeReference<List<Country>>() {
             });
         } catch (Exception e) {
             //not handled

@@ -17,6 +17,6 @@ public class Test {
         Country country = countries.getCountryByAlpha2Code("US");
         //State info
         List<State> countryStates = country.getStates();
-
+        System.out.println(countryStates.size());
     }
 }
