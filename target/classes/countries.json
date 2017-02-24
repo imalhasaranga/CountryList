@@ -1,0 +1,10025 @@
+[
+  {
+    "states": [
+      {
+        "state": "Badakhshan"
+      },
+      {
+        "state": "Badghis"
+      },
+      {
+        "state": "Baghlan"
+      },
+      {
+        "state": "Balkh"
+      },
+      {
+        "state": "Bamian"
+      },
+      {
+        "state": "Daykondi"
+      },
+      {
+        "state": "Farah"
+      },
+      {
+        "state": "Faryab"
+      },
+      {
+        "state": "Ghazni"
+      },
+      {
+        "state": "Ghowr"
+      },
+      {
+        "state": "Helmand"
+      },
+      {
+        "state": "Herat"
+      },
+      {
+        "state": "Jowzjan"
+      },
+      {
+        "state": "Kabul"
+      },
+      {
+        "state": "Kandahar"
+      },
+      {
+        "state": "Kapisa"
+      },
+      {
+        "state": "Khost"
+      },
+      {
+        "state": "Konar"
+      },
+      {
+        "state": "Kondoz"
+      },
+      {
+        "state": "Laghman"
+      },
+      {
+        "state": "Lowgar"
+      },
+      {
+        "state": "Nangarhar"
+      },
+      {
+        "state": "Nimruz"
+      },
+      {
+        "state": "Nurestan"
+      },
+      {
+        "state": "Oruzgan"
+      },
+      {
+        "state": "Paktia"
+      },
+      {
+        "state": "Paktika"
+      },
+      {
+        "state": "Panjshir"
+      },
+      {
+        "state": "Parvan"
+      },
+      {
+        "state": "Samangan"
+      },
+      {
+        "state": "Sar-e Pol"
+      },
+      {
+        "state": "Takhar"
+      },
+      {
+        "state": "Vardak"
+      },
+      {
+        "state": "Zabol"
+      }
+    ],
+    "name": "Afghanistan",
+    "alpha2Code": "AF"
+  },
+  {
+    "states": [
+      {
+        "state": "Berat"
+      },
+      {
+        "state": "Dibres"
+      },
+      {
+        "state": "Durres"
+      },
+      {
+        "state": "Elbasan"
+      },
+      {
+        "state": "Fier"
+      },
+      {
+        "state": "Gjirokastre"
+      },
+      {
+        "state": "Korce"
+      },
+      {
+        "state": "Kukes"
+      },
+      {
+        "state": "Lezhe"
+      },
+      {
+        "state": "Shkoder"
+      },
+      {
+        "state": "Tirane"
+      },
+      {
+        "state": "Vlore"
+      }
+    ],
+    "name": "Albania",
+    "alpha2Code": "AL"
+  },
+  {
+    "states": [
+      {
+        "state": "Adrar"
+      },
+      {
+        "state": "Ain Defla"
+      },
+      {
+        "state": "Ain Temouchent"
+      },
+      {
+        "state": "Alger"
+      },
+      {
+        "state": "Annaba"
+      },
+      {
+        "state": "Batna"
+      },
+      {
+        "state": "Bechar"
+      },
+      {
+        "state": "Bejaia"
+      },
+      {
+        "state": "Biskra"
+      },
+      {
+        "state": "Blida"
+      },
+      {
+        "state": "Bordj Bou Arreridj"
+      },
+      {
+        "state": "Bouira"
+      },
+      {
+        "state": "Boumerdes"
+      },
+      {
+        "state": "Chlef"
+      },
+      {
+        "state": "Constantine"
+      },
+      {
+        "state": "Djelfa"
+      },
+      {
+        "state": "El Bayadh"
+      },
+      {
+        "state": "El Oued"
+      },
+      {
+        "state": "El Tarf"
+      },
+      {
+        "state": "Ghardaia"
+      },
+      {
+        "state": "Guelma"
+      },
+      {
+        "state": "Illizi"
+      },
+      {
+        "state": "Jijel"
+      },
+      {
+        "state": "Khenchela"
+      },
+      {
+        "state": "Laghouat"
+      },
+      {
+        "state": "Muaskar"
+      },
+      {
+        "state": "Medea"
+      },
+      {
+        "state": "Mila"
+      },
+      {
+        "state": "Mostaganem"
+      },
+      {
+        "state": "M'Sila"
+      },
+      {
+        "state": "Naama"
+      },
+      {
+        "state": "Oran"
+      },
+      {
+        "state": "Ouargla"
+      },
+      {
+        "state": "Oum el Bouaghi"
+      },
+      {
+        "state": "Relizane"
+      },
+      {
+        "state": "Saida"
+      },
+      {
+        "state": "Setif"
+      },
+      {
+        "state": "Sidi Bel Abbes"
+      },
+      {
+        "state": "Skikda"
+      },
+      {
+        "state": "Souk Ahras"
+      },
+      {
+        "state": "Tamanghasset"
+      },
+      {
+        "state": "Tebessa"
+      },
+      {
+        "state": "Tiaret"
+      },
+      {
+        "state": "Tindouf"
+      },
+      {
+        "state": "Tipaza"
+      },
+      {
+        "state": "Tissemsilt"
+      },
+      {
+        "state": "Tizi Ouzou"
+      },
+      {
+        "state": "Tlemcen"
+      }
+    ],
+    "name": "Algeria",
+    "alpha2Code": "DZ"
+  },
+  {
+    "states": [
+      {
+        "state": "Andorra la Vella"
+      },
+      {
+        "state": "Canillo"
+      },
+      {
+        "state": "Encamp"
+      },
+      {
+        "state": "Escaldes-Engordany"
+      },
+      {
+        "state": "La Massana"
+      },
+      {
+        "state": "Ordino"
+      },
+      {
+        "state": "Sant Julia de Loria"
+      }
+    ],
+    "name": "AndorrA",
+    "alpha2Code": "AD"
+  },
+  {
+    "states": [
+      {
+        "state": "Bengo"
+      },
+      {
+        "state": "Benguela"
+      },
+      {
+        "state": "Bie"
+      },
+      {
+        "state": "Cabinda"
+      },
+      {
+        "state": "Cuando Cubango"
+      },
+      {
+        "state": "Cuanza Norte"
+      },
+      {
+        "state": "Cuanza Sul"
+      },
+      {
+        "state": "Cunene"
+      },
+      {
+        "state": "Huambo"
+      },
+      {
+        "state": "Huila"
+      },
+      {
+        "state": "Luanda"
+      },
+      {
+        "state": "Lunda Norte"
+      },
+      {
+        "state": "Lunda Sul"
+      },
+      {
+        "state": "Malanje"
+      },
+      {
+        "state": "Moxico"
+      },
+      {
+        "state": "Namibe"
+      },
+      {
+        "state": "Uige"
+      },
+      {
+        "state": "Zaire"
+      }
+    ],
+    "name": "Angola",
+    "alpha2Code": "AO"
+  },
+  {
+    "states": [],
+    "name": "Antarctica",
+    "alpha2Code": "AQ"
+  },
+  {
+    "states": [
+      {
+        "state": "Barbuda"
+      },
+      {
+        "state": "Redonda"
+      },
+      {
+        "state": "Saint George"
+      },
+      {
+        "state": "Saint John"
+      },
+      {
+        "state": "Saint Mary"
+      },
+      {
+        "state": "Saint Paul"
+      },
+      {
+        "state": "Saint Peter"
+      },
+      {
+        "state": "Saint Philip"
+      }
+    ],
+    "name": "Antigua and Barbuda",
+    "alpha2Code": "AG"
+  },
+  {
+    "states": [
+      {
+        "state": "Buenos Aires"
+      },
+      {
+        "state": "Buenos Aires Capital"
+      },
+      {
+        "state": "Catamarca"
+      },
+      {
+        "state": "Chaco"
+      },
+      {
+        "state": "Chubut"
+      },
+      {
+        "state": "Cordoba"
+      },
+      {
+        "state": "Corrientes"
+      },
+      {
+        "state": "Entre Rios"
+      },
+      {
+        "state": "Formosa"
+      },
+      {
+        "state": "Jujuy"
+      },
+      {
+        "state": "La Pampa"
+      },
+      {
+        "state": "La Rioja"
+      },
+      {
+        "state": "Mendoza"
+      },
+      {
+        "state": "Misiones"
+      },
+      {
+        "state": "Neuquen"
+      },
+      {
+        "state": "Rio Negro"
+      },
+      {
+        "state": "Salta"
+      },
+      {
+        "state": "San Juan"
+      },
+      {
+        "state": "San Luis"
+      },
+      {
+        "state": "Santa Cruz"
+      },
+      {
+        "state": "Santa Fe"
+      },
+      {
+        "state": "Santiago del Estero"
+      },
+      {
+        "state": "Tierra del Fuego"
+      },
+      {
+        "state": "Tucuman"
+      }
+    ],
+    "name": "Argentina",
+    "alpha2Code": "AR"
+  },
+  {
+    "states": [
+      {
+        "state": "Aragatsotn"
+      },
+      {
+        "state": "Ararat"
+      },
+      {
+        "state": "Armavir"
+      },
+      {
+        "state": "Geghark'unik'"
+      },
+      {
+        "state": "Kotayk'"
+      },
+      {
+        "state": "Lorri"
+      },
+      {
+        "state": "Shirak"
+      },
+      {
+        "state": "Syunik'"
+      },
+      {
+        "state": "Tavush"
+      },
+      {
+        "state": "Vayots' Dzor"
+      },
+      {
+        "state": "Yerevan"
+      }
+    ],
+    "name": "Armenia",
+    "alpha2Code": "AM"
+  },
+  {
+    "states": [
+      {
+        "state": "New South Wales"
+      },
+      {
+        "state": "Queensland"
+      },
+      {
+        "state": "South Australia"
+      },
+      {
+        "state": "Tasmania"
+      },
+      {
+        "state": "Victoria"
+      },
+      {
+        "state": "Western Australia"
+      }
+    ],
+    "name": "Australia",
+    "alpha2Code": "AU"
+  },
+  {
+    "states": [
+      {
+        "state": "Burgenland"
+      },
+      {
+        "state": "Kaernten"
+      },
+      {
+        "state": "Niederoesterreich"
+      },
+      {
+        "state": "Oberoesterreich"
+      },
+      {
+        "state": "Salzburg"
+      },
+      {
+        "state": "Steiermark"
+      },
+      {
+        "state": "Tirol"
+      },
+      {
+        "state": "Vorarlberg"
+      },
+      {
+        "state": "Wien"
+      }
+    ],
+    "name": "Austria",
+    "alpha2Code": "AT"
+  },
+  {
+    "states": [
+      {
+        "state": "Abseron Rayonu"
+      },
+      {
+        "state": "Agcabadi Rayonu"
+      },
+      {
+        "state": "Agdam Rayonu"
+      },
+      {
+        "state": "Agdas Rayonu"
+      },
+      {
+        "state": "Agstafa Rayonu"
+      },
+      {
+        "state": "Agsu Rayonu"
+      },
+      {
+        "state": "Astara Rayonu"
+      },
+      {
+        "state": "Balakan Rayonu"
+      },
+      {
+        "state": "Barda Rayonu"
+      },
+      {
+        "state": "Beylaqan Rayonu"
+      },
+      {
+        "state": "Bilasuvar Rayonu"
+      },
+      {
+        "state": "Cabrayil Rayonu"
+      },
+      {
+        "state": "Calilabad Rayonu"
+      },
+      {
+        "state": "Daskasan Rayonu"
+      },
+      {
+        "state": "Davaci Rayonu"
+      },
+      {
+        "state": "Fuzuli Rayonu"
+      },
+      {
+        "state": "Gadabay Rayonu"
+      },
+      {
+        "state": "Goranboy Rayonu"
+      },
+      {
+        "state": "Goycay Rayonu"
+      },
+      {
+        "state": "Haciqabul Rayonu"
+      },
+      {
+        "state": "Imisli Rayonu"
+      },
+      {
+        "state": "Ismayilli Rayonu"
+      },
+      {
+        "state": "Kalbacar Rayonu"
+      },
+      {
+        "state": "Kurdamir Rayonu"
+      },
+      {
+        "state": "Lacin Rayonu"
+      },
+      {
+        "state": "Lankaran Rayonu"
+      },
+      {
+        "state": "Lerik Rayonu"
+      },
+      {
+        "state": "Masalli Rayonu"
+      },
+      {
+        "state": "Neftcala Rayonu"
+      },
+      {
+        "state": "Oguz Rayonu"
+      },
+      {
+        "state": "Qabala Rayonu"
+      },
+      {
+        "state": "Qax Rayonu"
+      },
+      {
+        "state": "Qazax Rayonu"
+      },
+      {
+        "state": "Qobustan Rayonu"
+      },
+      {
+        "state": "Quba Rayonu"
+      },
+      {
+        "state": "Qubadli Rayonu"
+      },
+      {
+        "state": "Qusar Rayonu"
+      },
+      {
+        "state": "Saatli Rayonu"
+      },
+      {
+        "state": "Sabirabad Rayonu"
+      },
+      {
+        "state": "Saki Rayonu"
+      },
+      {
+        "state": "Salyan Rayonu"
+      },
+      {
+        "state": "Samaxi Rayonu"
+      },
+      {
+        "state": "Samkir Rayonu"
+      },
+      {
+        "state": "Samux Rayonu"
+      },
+      {
+        "state": "Siyazan Rayonu"
+      },
+      {
+        "state": "Susa Rayonu"
+      },
+      {
+        "state": "Tartar Rayonu"
+      },
+      {
+        "state": "Tovuz Rayonu"
+      },
+      {
+        "state": "Ucar Rayonu"
+      },
+      {
+        "state": "Xacmaz Rayonu"
+      },
+      {
+        "state": "Xanlar Rayonu"
+      },
+      {
+        "state": "Xizi Rayonu"
+      },
+      {
+        "state": "Xocali Rayonu"
+      },
+      {
+        "state": "Xocavand Rayonu"
+      },
+      {
+        "state": "Yardimli Rayonu"
+      },
+      {
+        "state": "Yevlax Rayonu"
+      },
+      {
+        "state": "Zangilan Rayonu"
+      },
+      {
+        "state": "Zaqatala Rayonu"
+      },
+      {
+        "state": "Zardab Rayonu"
+      },
+      {
+        "state": "Ali Bayramli Sahari"
+      },
+      {
+        "state": "Baki Sahari"
+      },
+      {
+        "state": "Ganca Sahari"
+      },
+      {
+        "state": "Lankaran Sahari"
+      },
+      {
+        "state": "Mingacevir Sahari"
+      },
+      {
+        "state": "Naftalan Sahari"
+      },
+      {
+        "state": "Saki Sahari"
+      },
+      {
+        "state": "Sumqayit Sahari"
+      },
+      {
+        "state": "Susa Sahari"
+      },
+      {
+        "state": "Xankandi Sahari"
+      },
+      {
+        "state": "Yevlax Sahari"
+      },
+      {
+        "state": "Naxcivan Muxtar"
+      }
+    ],
+    "name": "Azerbaijan",
+    "alpha2Code": "AZ"
+  },
+  {
+    "states": [
+      {
+        "state": "Acklins and Crooked Islands"
+      },
+      {
+        "state": "Bimini"
+      },
+      {
+        "state": "Cat Island"
+      },
+      {
+        "state": "Exuma"
+      },
+      {
+        "state": "Freeport"
+      },
+      {
+        "state": "Fresh Creek"
+      },
+      {
+        "state": "Governor's Harbour"
+      },
+      {
+        "state": "Green Turtle Cay"
+      },
+      {
+        "state": "Harbour Island"
+      },
+      {
+        "state": "High Rock"
+      },
+      {
+        "state": "Inagua"
+      },
+      {
+        "state": "Kemps Bay"
+      },
+      {
+        "state": "Long Island"
+      },
+      {
+        "state": "Marsh Harbour"
+      },
+      {
+        "state": "Mayaguana"
+      },
+      {
+        "state": "New Providence"
+      },
+      {
+        "state": "Nichollstown and Berry Islands"
+      },
+      {
+        "state": "Ragged Island"
+      },
+      {
+        "state": "Rock Sound"
+      },
+      {
+        "state": "Sandy Point"
+      },
+      {
+        "state": "San Salvador and Rum Cay"
+      }
+    ],
+    "name": "Bahamas",
+    "alpha2Code": "BS"
+  },
+  {
+    "states": [
+      {
+        "state": "Al Hadd"
+      },
+      {
+        "state": "Al Manamah"
+      },
+      {
+        "state": "Al Mintaqah al Gharbiyah"
+      },
+      {
+        "state": "Al Mintaqah al Wusta"
+      },
+      {
+        "state": "Al Mintaqah ash Shamaliyah"
+      },
+      {
+        "state": "Al Muharraq"
+      },
+      {
+        "state": "Ar Rifa' wa al Mintaqah al Janubiyah"
+      },
+      {
+        "state": "Jidd Hafs"
+      },
+      {
+        "state": "Madinat Hamad"
+      },
+      {
+        "state": "Madinat 'Isa"
+      },
+      {
+        "state": "Juzur Hawar"
+      },
+      {
+        "state": "Sitrah"
+      }
+    ],
+    "name": "Bahrain",
+    "alpha2Code": "BH"
+  },
+  {
+    "states": [
+      {
+        "state": "Barisal"
+      },
+      {
+        "state": "Chittagong"
+      },
+      {
+        "state": "Dhaka"
+      },
+      {
+        "state": "Khulna"
+      },
+      {
+        "state": "Rajshahi"
+      },
+      {
+        "state": "Sylhet"
+      }
+    ],
+    "name": "Bangladesh",
+    "alpha2Code": "BD"
+  },
+  {
+    "states": [
+      {
+        "state": "Christ Church"
+      },
+      {
+        "state": "Saint Andrew"
+      },
+      {
+        "state": "Saint George"
+      },
+      {
+        "state": "Saint James"
+      },
+      {
+        "state": "Saint John"
+      },
+      {
+        "state": "Saint Joseph"
+      },
+      {
+        "state": "Saint Lucy"
+      },
+      {
+        "state": "Saint Michael"
+      },
+      {
+        "state": "Saint Peter"
+      },
+      {
+        "state": "Saint Philip"
+      },
+      {
+        "state": "Saint Thomas"
+      }
+    ],
+    "name": "Barbados",
+    "alpha2Code": "BB"
+  },
+  {
+    "states": [
+      {
+        "state": "Brest"
+      },
+      {
+        "state": "Homyel"
+      },
+      {
+        "state": "Horad Minsk"
+      },
+      {
+        "state": "Hrodna"
+      },
+      {
+        "state": "Mahilyow"
+      },
+      {
+        "state": "Minsk"
+      },
+      {
+        "state": "Vitsyebsk"
+      }
+    ],
+    "name": "Belarus",
+    "alpha2Code": "BY"
+  },
+  {
+    "states": [
+      {
+        "state": "Antwerpen"
+      },
+      {
+        "state": "Brabant Wallon"
+      },
+      {
+        "state": "Brussels"
+      },
+      {
+        "state": "Flanders"
+      },
+      {
+        "state": "Hainaut"
+      },
+      {
+        "state": "Liege"
+      },
+      {
+        "state": "Limburg"
+      },
+      {
+        "state": "Luxembourg"
+      },
+      {
+        "state": "Namur"
+      },
+      {
+        "state": "Oost-Vlaanderen"
+      },
+      {
+        "state": "Vlaams-Brabant"
+      },
+      {
+        "state": "Wallonia"
+      },
+      {
+        "state": "West-Vlaanderen"
+      }
+    ],
+    "name": "Belgium",
+    "alpha2Code": "BE"
+  },
+  {
+    "states": [
+      {
+        "state": "Belize"
+      },
+      {
+        "state": "Cayo"
+      },
+      {
+        "state": "Corozal"
+      },
+      {
+        "state": "Orange Walk"
+      },
+      {
+        "state": "Stann Creek"
+      },
+      {
+        "state": "Toledo"
+      }
+    ],
+    "name": "Belize",
+    "alpha2Code": "BZ"
+  },
+  {
+    "states": [
+      {
+        "state": "Alibori"
+      },
+      {
+        "state": "Atakora"
+      },
+      {
+        "state": "Atlantique"
+      },
+      {
+        "state": "Borgou"
+      },
+      {
+        "state": "Collines"
+      },
+      {
+        "state": "Donga"
+      },
+      {
+        "state": "Kouffo"
+      },
+      {
+        "state": "Littoral"
+      },
+      {
+        "state": "Mono"
+      },
+      {
+        "state": "Oueme"
+      },
+      {
+        "state": "Plateau"
+      },
+      {
+        "state": "Zou"
+      }
+    ],
+    "name": "Benin",
+    "alpha2Code": "BJ"
+  },
+  {
+    "states": [
+      {
+        "state": "Devonshire"
+      },
+      {
+        "state": "Hamilton"
+      },
+      {
+        "state": "Hamilton"
+      },
+      {
+        "state": "Paget"
+      },
+      {
+        "state": "Pembroke"
+      },
+      {
+        "state": "Saint George"
+      },
+      {
+        "state": "Saint George's"
+      },
+      {
+        "state": "Sandys"
+      },
+      {
+        "state": "Smith's"
+      },
+      {
+        "state": "Southampton"
+      },
+      {
+        "state": "Warwick"
+      }
+    ],
+    "name": "Bermuda",
+    "alpha2Code": "BM"
+  },
+  {
+    "states": [
+      {
+        "state": "Bumthang"
+      },
+      {
+        "state": "Chukha"
+      },
+      {
+        "state": "Dagana"
+      },
+      {
+        "state": "Gasa"
+      },
+      {
+        "state": "Haa"
+      },
+      {
+        "state": "Lhuntse"
+      },
+      {
+        "state": "Mongar"
+      },
+      {
+        "state": "Paro"
+      },
+      {
+        "state": "Pemagatshel"
+      },
+      {
+        "state": "Punakha"
+      },
+      {
+        "state": "Samdrup Jongkhar"
+      },
+      {
+        "state": "Samtse"
+      },
+      {
+        "state": "Sarpang"
+      },
+      {
+        "state": "Thimphu"
+      },
+      {
+        "state": "Trashigang"
+      },
+      {
+        "state": "Trashiyangste"
+      },
+      {
+        "state": "Trongsa"
+      },
+      {
+        "state": "Tsirang"
+      },
+      {
+        "state": "Wangdue Phodrang"
+      },
+      {
+        "state": "Zhemgang"
+      }
+    ],
+    "name": "Bhutan",
+    "alpha2Code": "BT"
+  },
+  {
+    "states": [
+      {
+        "state": "Chuquisaca"
+      },
+      {
+        "state": "Cochabamba"
+      },
+      {
+        "state": "Beni"
+      },
+      {
+        "state": "La Paz"
+      },
+      {
+        "state": "Oruro"
+      },
+      {
+        "state": "Pando"
+      },
+      {
+        "state": "Potosi"
+      },
+      {
+        "state": "Santa Cruz"
+      },
+      {
+        "state": "Tarija"
+      }
+    ],
+    "name": "Bolivia",
+    "alpha2Code": "BO"
+  },
+  {
+    "states": [
+      {
+        "state": "Una-Sana [Federation]"
+      },
+      {
+        "state": "Posavina [Federation]"
+      },
+      {
+        "state": "Tuzla [Federation]"
+      },
+      {
+        "state": "Zenica-Doboj [Federation]"
+      },
+      {
+        "state": "Bosnian Podrinje [Federation]"
+      },
+      {
+        "state": "Central Bosnia [Federation]"
+      },
+      {
+        "state": "Herzegovina-Neretva [Federation]"
+      },
+      {
+        "state": "West Herzegovina [Federation]"
+      },
+      {
+        "state": "Sarajevo [Federation]"
+      },
+      {
+        "state": " West Bosnia [Federation]"
+      },
+      {
+        "state": "Banja Luka [RS]"
+      },
+      {
+        "state": "Bijeljina [RS]"
+      },
+      {
+        "state": "Doboj [RS]"
+      },
+      {
+        "state": "Fo?a [RS]"
+      },
+      {
+        "state": "Sarajevo-Romanija [RS]"
+      },
+      {
+        "state": "Trebinje [RS]"
+      },
+      {
+        "state": "Vlasenica [RS]"
+      }
+    ],
+    "name": "Bosnia and Herzegovina",
+    "alpha2Code": "BA"
+  },
+  {
+    "states": [
+      {
+        "state": "Central"
+      },
+      {
+        "state": "Ghanzi"
+      },
+      {
+        "state": "Kgalagadi"
+      },
+      {
+        "state": "Kgatleng"
+      },
+      {
+        "state": "Kweneng"
+      },
+      {
+        "state": "North East"
+      },
+      {
+        "state": "North West"
+      },
+      {
+        "state": "South East"
+      },
+      {
+        "state": "Southern"
+      }
+    ],
+    "name": "Botswana",
+    "alpha2Code": "BW"
+  },
+  {
+    "states": [
+      {
+        "state": "Acre"
+      },
+      {
+        "state": "Alagoas"
+      },
+      {
+        "state": "Amapa"
+      },
+      {
+        "state": "Amazonas"
+      },
+      {
+        "state": "Bahia"
+      },
+      {
+        "state": "Ceara"
+      },
+      {
+        "state": "Distrito Federal"
+      },
+      {
+        "state": "Espirito Santo"
+      },
+      {
+        "state": "Goias"
+      },
+      {
+        "state": "Maranhao"
+      },
+      {
+        "state": "Mato Grosso"
+      },
+      {
+        "state": "Mato Grosso do Sul"
+      },
+      {
+        "state": "Minas Gerais"
+      },
+      {
+        "state": "Para"
+      },
+      {
+        "state": "Paraiba"
+      },
+      {
+        "state": "Parana"
+      },
+      {
+        "state": "Pernambuco"
+      },
+      {
+        "state": "Piaui"
+      },
+      {
+        "state": "Rio de Janeiro"
+      },
+      {
+        "state": "Rio Grande do Norte"
+      },
+      {
+        "state": "Rio Grande do Sul"
+      },
+      {
+        "state": "Rondonia"
+      },
+      {
+        "state": "Roraima"
+      },
+      {
+        "state": "Santa Catarina"
+      },
+      {
+        "state": "Sao Paulo"
+      },
+      {
+        "state": "Sergipe"
+      },
+      {
+        "state": "Tocantins"
+      }
+    ],
+    "name": "Brazil",
+    "alpha2Code": "BR"
+  },
+  {
+    "states": [
+      {
+        "state": "Blagoevgrad"
+      },
+      {
+        "state": "Burgas"
+      },
+      {
+        "state": "Dobrich"
+      },
+      {
+        "state": "Gabrovo"
+      },
+      {
+        "state": "Khaskovo"
+      },
+      {
+        "state": "Kurdzhali"
+      },
+      {
+        "state": "Kyustendil"
+      },
+      {
+        "state": "Lovech"
+      },
+      {
+        "state": "Montana"
+      },
+      {
+        "state": "Pazardzhik"
+      },
+      {
+        "state": "Pernik"
+      },
+      {
+        "state": "Pleven"
+      },
+      {
+        "state": "Plovdiv"
+      },
+      {
+        "state": "Razgrad"
+      },
+      {
+        "state": "Ruse"
+      },
+      {
+        "state": "Shumen"
+      },
+      {
+        "state": "Silistra"
+      },
+      {
+        "state": "Sliven"
+      },
+      {
+        "state": "Smolyan"
+      },
+      {
+        "state": "Sofiya"
+      },
+      {
+        "state": "Sofiya-Grad"
+      },
+      {
+        "state": "Stara Zagora"
+      },
+      {
+        "state": "Turgovishte"
+      },
+      {
+        "state": "Varna"
+      },
+      {
+        "state": "Veliko Turnovo"
+      },
+      {
+        "state": "Vidin"
+      },
+      {
+        "state": "Vratsa"
+      },
+      {
+        "state": "Yambol"
+      }
+    ],
+    "name": "Bulgaria",
+    "alpha2Code": "BG"
+  },
+  {
+    "states": [
+      {
+        "state": "Bale"
+      },
+      {
+        "state": "Bam"
+      },
+      {
+        "state": "Banwa"
+      },
+      {
+        "state": "Bazega"
+      },
+      {
+        "state": "Bougouriba"
+      },
+      {
+        "state": "Boulgou"
+      },
+      {
+        "state": "Boulkiemde"
+      },
+      {
+        "state": "Comoe"
+      },
+      {
+        "state": "Ganzourgou"
+      },
+      {
+        "state": "Gnagna"
+      },
+      {
+        "state": "Gourma"
+      },
+      {
+        "state": "Houet"
+      },
+      {
+        "state": "Ioba"
+      },
+      {
+        "state": "Kadiogo"
+      },
+      {
+        "state": "Kenedougou"
+      },
+      {
+        "state": "Komondjari"
+      },
+      {
+        "state": "Kompienga"
+      },
+      {
+        "state": "Kossi"
+      },
+      {
+        "state": "Koulpelogo"
+      },
+      {
+        "state": "Kouritenga"
+      },
+      {
+        "state": "Kourweogo"
+      },
+      {
+        "state": "Leraba"
+      },
+      {
+        "state": "Loroum"
+      },
+      {
+        "state": "Mouhoun"
+      },
+      {
+        "state": "Namentenga"
+      },
+      {
+        "state": "Nahouri"
+      },
+      {
+        "state": "Nayala"
+      },
+      {
+        "state": "Noumbiel"
+      },
+      {
+        "state": "Oubritenga"
+      },
+      {
+        "state": "Oudalan"
+      },
+      {
+        "state": "Passore"
+      },
+      {
+        "state": "Poni"
+      },
+      {
+        "state": "Sanguie"
+      },
+      {
+        "state": "Sanmatenga"
+      },
+      {
+        "state": "Seno"
+      },
+      {
+        "state": "Sissili"
+      },
+      {
+        "state": "Soum"
+      },
+      {
+        "state": "Sourou"
+      },
+      {
+        "state": "Tapoa"
+      },
+      {
+        "state": "Tuy"
+      },
+      {
+        "state": "Yagha"
+      },
+      {
+        "state": "Yatenga"
+      },
+      {
+        "state": "Ziro"
+      },
+      {
+        "state": "Zondoma"
+      },
+      {
+        "state": "Zoundweogo"
+      }
+    ],
+    "name": "Burkina Faso",
+    "alpha2Code": "BF"
+  },
+  {
+    "states": [
+      {
+        "state": "Bubanza"
+      },
+      {
+        "state": "Bujumbura Mairie"
+      },
+      {
+        "state": "Bujumbura Rural"
+      },
+      {
+        "state": "Bururi"
+      },
+      {
+        "state": "Cankuzo"
+      },
+      {
+        "state": "Cibitoke"
+      },
+      {
+        "state": "Gitega"
+      },
+      {
+        "state": "Karuzi"
+      },
+      {
+        "state": "Kayanza"
+      },
+      {
+        "state": "Kirundo"
+      },
+      {
+        "state": "Makamba"
+      },
+      {
+        "state": "Muramvya"
+      },
+      {
+        "state": "Muyinga"
+      },
+      {
+        "state": "Mwaro"
+      },
+      {
+        "state": "Ngozi"
+      },
+      {
+        "state": "Rutana"
+      },
+      {
+        "state": "Ruyigi"
+      }
+    ],
+    "name": "Burundi",
+    "alpha2Code": "BI"
+  },
+  {
+    "states": [
+      {
+        "state": "Banteay Mean Chey"
+      },
+      {
+        "state": "Batdambang"
+      },
+      {
+        "state": "Kampong Cham"
+      },
+      {
+        "state": "Kampong Chhnang"
+      },
+      {
+        "state": "Kampong Spoe"
+      },
+      {
+        "state": "Kampong Thum"
+      },
+      {
+        "state": "Kampot"
+      },
+      {
+        "state": "Kandal"
+      },
+      {
+        "state": "Koh Kong"
+      },
+      {
+        "state": "Kracheh"
+      },
+      {
+        "state": "Mondol Kiri"
+      },
+      {
+        "state": "Otdar Mean Chey"
+      },
+      {
+        "state": "Pouthisat"
+      },
+      {
+        "state": "Preah Vihear"
+      },
+      {
+        "state": "Prey Veng"
+      },
+      {
+        "state": "Rotanakir"
+      },
+      {
+        "state": "Siem Reab"
+      },
+      {
+        "state": "Stoeng Treng"
+      },
+      {
+        "state": "Svay Rieng"
+      },
+      {
+        "state": "Takao"
+      },
+      {
+        "state": "Keb"
+      },
+      {
+        "state": "Pailin"
+      },
+      {
+        "state": "Phnom Penh"
+      },
+      {
+        "state": "Preah Seihanu"
+      }
+    ],
+    "name": "Cambodia",
+    "alpha2Code": "KH"
+  },
+  {
+    "states": [
+      {
+        "state": "Adamaoua"
+      },
+      {
+        "state": "Centre"
+      },
+      {
+        "state": "Est"
+      },
+      {
+        "state": "Extreme-Nord"
+      },
+      {
+        "state": "Littoral"
+      },
+      {
+        "state": "Nord"
+      },
+      {
+        "state": "Nord-Ouest"
+      },
+      {
+        "state": "Ouest"
+      },
+      {
+        "state": "Sud"
+      },
+      {
+        "state": "Sud-Ouest"
+      }
+    ],
+    "name": "Cameroon",
+    "alpha2Code": "CM"
+  },
+  {
+    "states": [
+      {
+        "state": "Alberta"
+      },
+      {
+        "state": "British Columbia"
+      },
+      {
+        "state": "Manitoba"
+      },
+      {
+        "state": "New Brunswick"
+      },
+      {
+        "state": "Newfoundland and Labrador"
+      },
+      {
+        "state": "Northwest Territories"
+      },
+      {
+        "state": "Nova Scotia"
+      },
+      {
+        "state": "Nunavut"
+      },
+      {
+        "state": "Ontario"
+      },
+      {
+        "state": "Prince Edward Island"
+      },
+      {
+        "state": "Quebec"
+      },
+      {
+        "state": "Saskatchewan"
+      },
+      {
+        "state": "Yukon Territory"
+      }
+    ],
+    "name": "Canada",
+    "alpha2Code": "CA"
+  },
+  {
+    "states": [],
+    "name": "Cape Verde",
+    "alpha2Code": "CV"
+  },
+  {
+    "states": [
+      {
+        "state": "Bamingui-Bangoran"
+      },
+      {
+        "state": "Bangui"
+      },
+      {
+        "state": "Basse-Kotto"
+      },
+      {
+        "state": "Haute-Kotto"
+      },
+      {
+        "state": "Haut-Mbomou"
+      },
+      {
+        "state": "Kemo"
+      },
+      {
+        "state": "Lobaye"
+      },
+      {
+        "state": "Mambere-Kadei"
+      },
+      {
+        "state": "Mbomou"
+      },
+      {
+        "state": "Nana-Grebizi"
+      },
+      {
+        "state": "Nana-Mambere"
+      },
+      {
+        "state": "Ombella-Mpoko"
+      },
+      {
+        "state": "Ouaka"
+      },
+      {
+        "state": "Ouham"
+      },
+      {
+        "state": "Ouham-Pende"
+      },
+      {
+        "state": "Sangha-Mbaere"
+      },
+      {
+        "state": "Vakaga"
+      }
+    ],
+    "name": "Central African Republic",
+    "alpha2Code": "CF"
+  },
+  {
+    "states": [
+      {
+        "state": "Batha"
+      },
+      {
+        "state": "Biltine"
+      },
+      {
+        "state": "Borkou-Ennedi-Tibesti"
+      },
+      {
+        "state": "Chari-Baguirmi"
+      },
+      {
+        "state": "GuÃ©ra"
+      },
+      {
+        "state": "Kanem"
+      },
+      {
+        "state": "Lac"
+      },
+      {
+        "state": "Logone Occidental"
+      },
+      {
+        "state": "Logone Oriental"
+      },
+      {
+        "state": "Mayo-Kebbi"
+      },
+      {
+        "state": "Moyen-Chari"
+      },
+      {
+        "state": "OuaddaÃ¯"
+      },
+      {
+        "state": "Salamat"
+      },
+      {
+        "state": "Tandjile"
+      }
+    ],
+    "name": "Chad",
+    "alpha2Code": "TD"
+  },
+  {
+    "states": [
+      {
+        "state": "Aysen"
+      },
+      {
+        "state": "Antofagasta"
+      },
+      {
+        "state": "Araucania"
+      },
+      {
+        "state": "Atacama"
+      },
+      {
+        "state": "Bio-Bio"
+      },
+      {
+        "state": "Coquimbo"
+      },
+      {
+        "state": "O'Higgins"
+      },
+      {
+        "state": "Los Lagos"
+      },
+      {
+        "state": "Magallanes y la Antartica Chilena"
+      },
+      {
+        "state": "Maule"
+      },
+      {
+        "state": "Santiago Region Metropolitana"
+      },
+      {
+        "state": "Tarapaca"
+      },
+      {
+        "state": "Valparaiso"
+      }
+    ],
+    "name": "Chile",
+    "alpha2Code": "CL"
+  },
+  {
+    "states": [
+      {
+        "state": "Anhui"
+      },
+      {
+        "state": "Fujian"
+      },
+      {
+        "state": "Gansu"
+      },
+      {
+        "state": "Guangdong"
+      },
+      {
+        "state": "Guizhou"
+      },
+      {
+        "state": "Hainan"
+      },
+      {
+        "state": "Hebei"
+      },
+      {
+        "state": "Heilongjiang"
+      },
+      {
+        "state": "Henan"
+      },
+      {
+        "state": "Hubei"
+      },
+      {
+        "state": "Hunan"
+      },
+      {
+        "state": "Jiangsu"
+      },
+      {
+        "state": "Jiangxi"
+      },
+      {
+        "state": "Jilin"
+      },
+      {
+        "state": "Liaoning"
+      },
+      {
+        "state": "Qinghai"
+      },
+      {
+        "state": "Shaanxi"
+      },
+      {
+        "state": "Shandong"
+      },
+      {
+        "state": "Shanxi"
+      },
+      {
+        "state": "Sichuan"
+      },
+      {
+        "state": "Yunnan"
+      },
+      {
+        "state": "Zhejiang"
+      },
+      {
+        "state": "Guangxi"
+      },
+      {
+        "state": "Nei Mongol"
+      },
+      {
+        "state": "Ningxia"
+      },
+      {
+        "state": "Xinjiang"
+      },
+      {
+        "state": "Xizang (Tibet)"
+      },
+      {
+        "state": "Beijing"
+      },
+      {
+        "state": "Chongqing"
+      },
+      {
+        "state": "Shanghai"
+      },
+      {
+        "state": "Tianjin"
+      }
+    ],
+    "name": "China",
+    "alpha2Code": "CN"
+  },
+  {
+    "states": [
+      {
+        "state": "Amazonas"
+      },
+      {
+        "state": "Antioquia"
+      },
+      {
+        "state": "Arauca"
+      },
+      {
+        "state": "Atlantico"
+      },
+      {
+        "state": "Bogota District Capital"
+      },
+      {
+        "state": "Bolivar"
+      },
+      {
+        "state": "Boyaca"
+      },
+      {
+        "state": "Caldas"
+      },
+      {
+        "state": "Caqueta"
+      },
+      {
+        "state": "Casanare"
+      },
+      {
+        "state": "Cauca"
+      },
+      {
+        "state": "Cesar"
+      },
+      {
+        "state": "Choco"
+      },
+      {
+        "state": "Cordoba"
+      },
+      {
+        "state": "Cundinamarca"
+      },
+      {
+        "state": "Guainia"
+      },
+      {
+        "state": "Guaviare"
+      },
+      {
+        "state": "Huila"
+      },
+      {
+        "state": "La Guajira"
+      },
+      {
+        "state": "Magdalena"
+      },
+      {
+        "state": "Meta"
+      },
+      {
+        "state": "Narino"
+      },
+      {
+        "state": "Norte de Santander"
+      },
+      {
+        "state": "Putumayo"
+      },
+      {
+        "state": "Quindio"
+      },
+      {
+        "state": "Risaralda"
+      },
+      {
+        "state": "San Andres & Providencia"
+      },
+      {
+        "state": "Santander"
+      },
+      {
+        "state": "Sucre"
+      },
+      {
+        "state": "Tolima"
+      },
+      {
+        "state": "Valle del Cauca"
+      },
+      {
+        "state": "Vaupes"
+      },
+      {
+        "state": "Vichada"
+      }
+    ],
+    "name": "Colombia",
+    "alpha2Code": "CO"
+  },
+  {
+    "states": [
+      {
+        "state": "Grande Comore (Njazidja)"
+      },
+      {
+        "state": "Anjouan (Nzwani)"
+      },
+      {
+        "state": "Moheli (Mwali)"
+      }
+    ],
+    "name": "Comoros",
+    "alpha2Code": "KM"
+  },
+  {
+    "states": [
+      {
+        "state": "Alajuela"
+      },
+      {
+        "state": "Cartago"
+      },
+      {
+        "state": "Guanacaste"
+      },
+      {
+        "state": "Heredia"
+      },
+      {
+        "state": "Limon"
+      },
+      {
+        "state": "Puntarenas"
+      },
+      {
+        "state": "San Jose"
+      }
+    ],
+    "name": "Costa Rica",
+    "alpha2Code": "CR"
+  },
+  {
+    "states": [],
+    "name": "Cote D'Ivoire",
+    "alpha2Code": "CI"
+  },
+  {
+    "states": [
+      {
+        "state": "Bjelovarsko-Bilogorska"
+      },
+      {
+        "state": "Brodsko-Posavska"
+      },
+      {
+        "state": "Dubrovacko-Neretvanska"
+      },
+      {
+        "state": "Istarska"
+      },
+      {
+        "state": "Karlovacka"
+      },
+      {
+        "state": "Koprivnicko-Krizevacka"
+      },
+      {
+        "state": "Krapinsko-Zagorska"
+      },
+      {
+        "state": "Licko-Senjska"
+      },
+      {
+        "state": "Medimurska"
+      },
+      {
+        "state": "Osjecko-Baranjska"
+      },
+      {
+        "state": "Pozesko-Slavonska"
+      },
+      {
+        "state": "Primorsko-Goranska"
+      },
+      {
+        "state": "Sibensko-Kninska"
+      },
+      {
+        "state": "Sisacko-Moslavacka"
+      },
+      {
+        "state": "Splitsko-Dalmatinska"
+      },
+      {
+        "state": "Varazdinska"
+      },
+      {
+        "state": "Viroviticko-Podravska"
+      },
+      {
+        "state": "Vukovarsko-Srijemska"
+      },
+      {
+        "state": "Zadarska"
+      },
+      {
+        "state": "Zagreb"
+      },
+      {
+        "state": "Zagrebacka"
+      }
+    ],
+    "name": "Croatia",
+    "alpha2Code": "HR"
+  },
+  {
+    "states": [
+      {
+        "state": "Camaguey"
+      },
+      {
+        "state": "Ciego de Avila"
+      },
+      {
+        "state": "Cienfuegos"
+      },
+      {
+        "state": "Ciudad de La Habana"
+      },
+      {
+        "state": "Granma"
+      },
+      {
+        "state": "Guantanamo"
+      },
+      {
+        "state": "Holguin"
+      },
+      {
+        "state": "Isla de la Juventud"
+      },
+      {
+        "state": "La Habana"
+      },
+      {
+        "state": "Las Tunas"
+      },
+      {
+        "state": "Matanzas"
+      },
+      {
+        "state": "Pinar del Rio"
+      },
+      {
+        "state": "Sancti Spiritus"
+      },
+      {
+        "state": "Santiago de Cuba"
+      },
+      {
+        "state": "Villa Clara"
+      }
+    ],
+    "name": "Cuba",
+    "alpha2Code": "CU"
+  },
+  {
+    "states": [
+      {
+        "state": "Famagusta"
+      },
+      {
+        "state": "Kyrenia"
+      },
+      {
+        "state": "Larnaca"
+      },
+      {
+        "state": "Limassol"
+      },
+      {
+        "state": "Nicosia"
+      },
+      {
+        "state": "Paphos"
+      }
+    ],
+    "name": "Cyprus",
+    "alpha2Code": "CY"
+  },
+  {
+    "states": [
+      {
+        "state": "Jihocesky Kraj"
+      },
+      {
+        "state": "Jihomoravsky Kraj"
+      },
+      {
+        "state": "Karlovarsky Kraj"
+      },
+      {
+        "state": "Kralovehradecky Kraj"
+      },
+      {
+        "state": "Liberecky Kraj"
+      },
+      {
+        "state": "Moravskoslezsky Kraj"
+      },
+      {
+        "state": "Olomoucky Kraj"
+      },
+      {
+        "state": "Pardubicky Kraj"
+      },
+      {
+        "state": "Plzensky Kraj"
+      },
+      {
+        "state": "Praha"
+      },
+      {
+        "state": "Stredocesky Kraj"
+      },
+      {
+        "state": "Ustecky Kraj"
+      },
+      {
+        "state": "Vysocina"
+      },
+      {
+        "state": "Zlinsky Kraj"
+      }
+    ],
+    "name": "Czech Republic",
+    "alpha2Code": "CZ"
+  },
+  {
+    "states": [
+      {
+        "state": "Arhus"
+      },
+      {
+        "state": "Bornholm"
+      },
+      {
+        "state": "Frederiksberg"
+      },
+      {
+        "state": "Frederiksborg"
+      },
+      {
+        "state": "Fyn"
+      },
+      {
+        "state": "Kobenhavn"
+      },
+      {
+        "state": "Kobenhavns"
+      },
+      {
+        "state": "Nordjylland"
+      },
+      {
+        "state": "Ribe"
+      },
+      {
+        "state": "Ringkobing"
+      },
+      {
+        "state": "Roskilde"
+      },
+      {
+        "state": "Sonderjylland"
+      },
+      {
+        "state": "Storstrom"
+      },
+      {
+        "state": "Vejle"
+      },
+      {
+        "state": "Vestsjalland"
+      },
+      {
+        "state": "Viborg"
+      }
+    ],
+    "name": "Denmark",
+    "alpha2Code": "DK"
+  },
+  {
+    "states": [
+      {
+        "state": "Ali Sabih"
+      },
+      {
+        "state": "Dikhil"
+      },
+      {
+        "state": "Djibouti"
+      },
+      {
+        "state": "Obock"
+      },
+      {
+        "state": "Tadjoura"
+      }
+    ],
+    "name": "Djibouti",
+    "alpha2Code": "DJ"
+  },
+  {
+    "states": [
+      {
+        "state": "Saint Andrew"
+      },
+      {
+        "state": "Saint David"
+      },
+      {
+        "state": "Saint George"
+      },
+      {
+        "state": "Saint John"
+      },
+      {
+        "state": "Saint Joseph"
+      },
+      {
+        "state": "Saint Luke"
+      },
+      {
+        "state": "Saint Mark"
+      },
+      {
+        "state": "Saint Patrick"
+      },
+      {
+        "state": "Saint Paul"
+      },
+      {
+        "state": "Saint Peter"
+      }
+    ],
+    "name": "Dominica",
+    "alpha2Code": "DM"
+  },
+  {
+    "states": [
+      {
+        "state": "Azua"
+      },
+      {
+        "state": "Baoruco"
+      },
+      {
+        "state": "Barahona"
+      },
+      {
+        "state": "Dajabon"
+      },
+      {
+        "state": "Distrito Nacional"
+      },
+      {
+        "state": "Duarte"
+      },
+      {
+        "state": "Elias Pina"
+      },
+      {
+        "state": "El Seibo"
+      },
+      {
+        "state": "Espaillat"
+      },
+      {
+        "state": "Hato Mayor"
+      },
+      {
+        "state": "Independencia"
+      },
+      {
+        "state": "La Altagracia"
+      },
+      {
+        "state": "La Romana"
+      },
+      {
+        "state": "La Vega"
+      },
+      {
+        "state": "Maria Trinidad Sanchez"
+      },
+      {
+        "state": "Monsenor Nouel"
+      },
+      {
+        "state": "Monte Cristi"
+      },
+      {
+        "state": "Monte Plata"
+      },
+      {
+        "state": "Pedernales"
+      },
+      {
+        "state": "Peravia"
+      },
+      {
+        "state": "Puerto Plata"
+      },
+      {
+        "state": "Salcedo"
+      },
+      {
+        "state": "Samana"
+      },
+      {
+        "state": "Sanchez Ramirez"
+      },
+      {
+        "state": "San Cristobal"
+      },
+      {
+        "state": "San Jose de Ocoa"
+      },
+      {
+        "state": "San Juan"
+      },
+      {
+        "state": "San Pedro de Macoris"
+      },
+      {
+        "state": "Santiago"
+      },
+      {
+        "state": "Santiago Rodriguez"
+      },
+      {
+        "state": "Santo Domingo"
+      },
+      {
+        "state": "Valverde"
+      }
+    ],
+    "name": "Dominican Republic",
+    "alpha2Code": "DO"
+  },
+  {
+    "states": [
+      {
+        "state": "Azuay"
+      },
+      {
+        "state": "Bolivar"
+      },
+      {
+        "state": "Canar"
+      },
+      {
+        "state": "Carchi"
+      },
+      {
+        "state": "Chimborazo"
+      },
+      {
+        "state": "Cotopaxi"
+      },
+      {
+        "state": "El Oro"
+      },
+      {
+        "state": "Esmeraldas"
+      },
+      {
+        "state": "Galapagos"
+      },
+      {
+        "state": "Guayas"
+      },
+      {
+        "state": "Imbabura"
+      },
+      {
+        "state": "Loja"
+      },
+      {
+        "state": "Los Rios"
+      },
+      {
+        "state": "Manabi"
+      },
+      {
+        "state": "Morona-Santiago"
+      },
+      {
+        "state": "Napo"
+      },
+      {
+        "state": "Orellana"
+      },
+      {
+        "state": "Pastaza"
+      },
+      {
+        "state": "Pichincha"
+      },
+      {
+        "state": "Sucumbios"
+      },
+      {
+        "state": "Tungurahua"
+      },
+      {
+        "state": "Zamora-Chinchipe"
+      }
+    ],
+    "name": "Ecuador",
+    "alpha2Code": "EC"
+  },
+  {
+    "states": [
+      {
+        "state": "Ad Daqahliyah"
+      },
+      {
+        "state": "Al Bahr al Ahmar"
+      },
+      {
+        "state": "Al Buhayrah"
+      },
+      {
+        "state": "Al Fayyum"
+      },
+      {
+        "state": "Al Gharbiyah"
+      },
+      {
+        "state": "Al Iskandariyah"
+      },
+      {
+        "state": "Al Isma'iliyah"
+      },
+      {
+        "state": "Al Jizah"
+      },
+      {
+        "state": "Al Minufiyah"
+      },
+      {
+        "state": "Al Minya"
+      },
+      {
+        "state": "Al Qahirah"
+      },
+      {
+        "state": "Al Qalyubiyah"
+      },
+      {
+        "state": "Al Wadi al Jadid"
+      },
+      {
+        "state": "Ash Sharqiyah"
+      },
+      {
+        "state": "As Suways"
+      },
+      {
+        "state": "Aswan"
+      },
+      {
+        "state": "Asyut"
+      },
+      {
+        "state": "Bani Suwayf"
+      },
+      {
+        "state": "Bur Sa'id"
+      },
+      {
+        "state": "Dumyat"
+      },
+      {
+        "state": "Janub Sina'"
+      },
+      {
+        "state": "Kafr ash Shaykh"
+      },
+      {
+        "state": "Matruh"
+      },
+      {
+        "state": "Qina"
+      },
+      {
+        "state": "Shamal Sina'"
+      },
+      {
+        "state": "Suhaj"
+      }
+    ],
+    "name": "Egypt",
+    "alpha2Code": "EG"
+  },
+  {
+    "states": [
+      {
+        "state": "Ahuachapan"
+      },
+      {
+        "state": "Cabanas"
+      },
+      {
+        "state": "Chalatenango"
+      },
+      {
+        "state": "Cuscatlan"
+      },
+      {
+        "state": "La Libertad"
+      },
+      {
+        "state": "La Paz"
+      },
+      {
+        "state": "La Union"
+      },
+      {
+        "state": "Morazan"
+      },
+      {
+        "state": "San Miguel"
+      },
+      {
+        "state": "San Salvador"
+      },
+      {
+        "state": "Santa Ana"
+      },
+      {
+        "state": "San Vicente"
+      },
+      {
+        "state": "Sonsonate"
+      },
+      {
+        "state": "Usulutan"
+      }
+    ],
+    "name": "El Salvador",
+    "alpha2Code": "SV"
+  },
+  {
+    "states": [
+      {
+        "state": "Annobon"
+      },
+      {
+        "state": "Bioko Norte"
+      },
+      {
+        "state": "Bioko Sur"
+      },
+      {
+        "state": "Centro Sur"
+      },
+      {
+        "state": "Kie-Ntem"
+      },
+      {
+        "state": "Litoral"
+      },
+      {
+        "state": "Wele-Nzas"
+      }
+    ],
+    "name": "Equatorial Guinea",
+    "alpha2Code": "GQ"
+  },
+  {
+    "states": [
+      {
+        "state": "Anseba"
+      },
+      {
+        "state": "Debub"
+      },
+      {
+        "state": "Debubawi K'eyih Bahri"
+      },
+      {
+        "state": "Gash Barka"
+      },
+      {
+        "state": "Ma'akel"
+      },
+      {
+        "state": "Semenawi Keyih Bahri"
+      }
+    ],
+    "name": "Eritrea",
+    "alpha2Code": "ER"
+  },
+  {
+    "states": [
+      {
+        "state": "Harjumaa (Tallinn)"
+      },
+      {
+        "state": "Hiiumaa (Kardla)"
+      },
+      {
+        "state": "Ida-Virumaa (Johvi)"
+      },
+      {
+        "state": "Jarvamaa (Paide)"
+      },
+      {
+        "state": "Jogevamaa (Jogeva)"
+      },
+      {
+        "state": "Laanemaa (Haapsalu)"
+      },
+      {
+        "state": "Laane-Virumaa (Rakvere)"
+      },
+      {
+        "state": "Parnumaa (Parnu)"
+      },
+      {
+        "state": "Polvamaa (Polva)"
+      },
+      {
+        "state": "Raplamaa (Rapla)"
+      },
+      {
+        "state": "Saaremaa (Kuressaare)"
+      },
+      {
+        "state": "Tartumaa (Tartu)"
+      },
+      {
+        "state": "Valgamaa (Valga)"
+      },
+      {
+        "state": "Viljandimaa (Viljandi)"
+      },
+      {
+        "state": "Vorumaa (Voru)"
+      }
+    ],
+    "name": "Estonia",
+    "alpha2Code": "EE"
+  },
+  {
+    "states": [
+      {
+        "state": "Addis Ababa"
+      },
+      {
+        "state": "Afar"
+      },
+      {
+        "state": "Amhara"
+      },
+      {
+        "state": "Binshangul Gumuz"
+      },
+      {
+        "state": "Dire Dawa"
+      },
+      {
+        "state": "Gambela Hizboch"
+      },
+      {
+        "state": "Harari"
+      },
+      {
+        "state": "Oromia"
+      },
+      {
+        "state": "Somali"
+      },
+      {
+        "state": "Tigray"
+      },
+      {
+        "state": "Southern Nations, Nationalities, and Peoples Region"
+      }
+    ],
+    "name": "Ethiopia",
+    "alpha2Code": "ET"
+  },
+  {
+    "states": [
+      {
+        "state": "Central (Suva)"
+      },
+      {
+        "state": "Eastern (Levuka)"
+      },
+      {
+        "state": "Northern (Labasa)"
+      },
+      {
+        "state": "Rotuma"
+      },
+      {
+        "state": "Western (Lautoka)"
+      }
+    ],
+    "name": "Fiji",
+    "alpha2Code": "FJ"
+  },
+  {
+    "states": [
+      {
+        "state": "Aland"
+      },
+      {
+        "state": "Etela-Suomen Laani"
+      },
+      {
+        "state": "Ita-Suomen Laani"
+      },
+      {
+        "state": "Lansi-Suomen Laani"
+      },
+      {
+        "state": "Lappi"
+      },
+      {
+        "state": "Oulun Laani"
+      }
+    ],
+    "name": "Finland",
+    "alpha2Code": "FI"
+  },
+  {
+    "states": [
+      {
+        "state": "Alsace"
+      },
+      {
+        "state": "Aquitaine"
+      },
+      {
+        "state": "Auvergne"
+      },
+      {
+        "state": "Basse-Normandie"
+      },
+      {
+        "state": "Bourgogne"
+      },
+      {
+        "state": "Bretagne"
+      },
+      {
+        "state": "Centre"
+      },
+      {
+        "state": "Champagne-Ardenne"
+      },
+      {
+        "state": "Corse"
+      },
+      {
+        "state": "Franche-Comte"
+      },
+      {
+        "state": "Haute-Normandie"
+      },
+      {
+        "state": "Ile-de-France"
+      },
+      {
+        "state": "Languedoc-Roussillon"
+      },
+      {
+        "state": "Limousin"
+      },
+      {
+        "state": "Lorraine"
+      },
+      {
+        "state": "Midi-Pyrenees"
+      },
+      {
+        "state": "Nord-Pas-de-Calais"
+      },
+      {
+        "state": "Pays de la Loire"
+      },
+      {
+        "state": "Picardie"
+      },
+      {
+        "state": "Poitou-Charentes"
+      },
+      {
+        "state": "Provence-Alpes-Cote d'Azur"
+      },
+      {
+        "state": "Rhone-Alpes"
+      }
+    ],
+    "name": "France",
+    "alpha2Code": "FR"
+  },
+  {
+    "states": [
+      {
+        "state": "Estuaire"
+      },
+      {
+        "state": "Haut-Ogooue"
+      },
+      {
+        "state": "Moyen-Ogooue"
+      },
+      {
+        "state": "Ngounie"
+      },
+      {
+        "state": "Nyanga"
+      },
+      {
+        "state": "Ogooue-Ivindo"
+      },
+      {
+        "state": "Ogooue-Lolo"
+      },
+      {
+        "state": "Ogooue-Maritime"
+      },
+      {
+        "state": "Woleu-Ntem"
+      }
+    ],
+    "name": "Gabon",
+    "alpha2Code": "GA"
+  },
+  {
+    "states": [
+      {
+        "state": "Banjul"
+      },
+      {
+        "state": "Central River"
+      },
+      {
+        "state": "Lower River"
+      },
+      {
+        "state": "North Bank"
+      },
+      {
+        "state": "Upper River"
+      },
+      {
+        "state": "Western"
+      }
+    ],
+    "name": "Gambia",
+    "alpha2Code": "GM"
+  },
+  {
+    "states": [],
+    "name": "Georgia",
+    "alpha2Code": "GE"
+  },
+  {
+    "states": [
+      {
+        "state": "Baden-Wuerttemberg"
+      },
+      {
+        "state": "Bayern"
+      },
+      {
+        "state": "Berlin"
+      },
+      {
+        "state": "Brandenburg"
+      },
+      {
+        "state": "Bremen"
+      },
+      {
+        "state": "Hamburg"
+      },
+      {
+        "state": "Hessen"
+      },
+      {
+        "state": "Mecklenburg-Vorpommern"
+      },
+      {
+        "state": "Niedersachsen"
+      },
+      {
+        "state": "Nordrhein-Westfalen"
+      },
+      {
+        "state": "Rheinland-Pfalz"
+      },
+      {
+        "state": "Saarland"
+      },
+      {
+        "state": "Sachsen"
+      },
+      {
+        "state": "Sachsen-Anhalt"
+      },
+      {
+        "state": "Schleswig-Holstein"
+      },
+      {
+        "state": "Thueringen"
+      }
+    ],
+    "name": "Germany",
+    "alpha2Code": "DE"
+  },
+  {
+    "states": [
+      {
+        "state": "Ashanti"
+      },
+      {
+        "state": "Brong-Ahafo"
+      },
+      {
+        "state": "Central"
+      },
+      {
+        "state": "Eastern"
+      },
+      {
+        "state": "Greater Accra"
+      },
+      {
+        "state": "Northern"
+      },
+      {
+        "state": "Upper East"
+      },
+      {
+        "state": "Upper West"
+      },
+      {
+        "state": "Volta"
+      },
+      {
+        "state": "Western"
+      }
+    ],
+    "name": "Ghana",
+    "alpha2Code": "GH"
+  },
+  {
+    "states": [
+      {
+        "state": "Agion Oros"
+      },
+      {
+        "state": "Achaia"
+      },
+      {
+        "state": "Aitolia kai Akarmania"
+      },
+      {
+        "state": "Argolis"
+      },
+      {
+        "state": "Arkadia"
+      },
+      {
+        "state": "Arta"
+      },
+      {
+        "state": "Attiki"
+      },
+      {
+        "state": "Chalkidiki"
+      },
+      {
+        "state": "Chanion"
+      },
+      {
+        "state": "Chios"
+      },
+      {
+        "state": "Dodekanisos"
+      },
+      {
+        "state": "Drama"
+      },
+      {
+        "state": "Evros"
+      },
+      {
+        "state": "Evrytania"
+      },
+      {
+        "state": "Evvoia"
+      },
+      {
+        "state": "Florina"
+      },
+      {
+        "state": "Fokidos"
+      },
+      {
+        "state": "Fthiotis"
+      },
+      {
+        "state": "Grevena"
+      },
+      {
+        "state": "Ileia"
+      },
+      {
+        "state": "Imathia"
+      },
+      {
+        "state": "Ioannina"
+      },
+      {
+        "state": "Irakleion"
+      },
+      {
+        "state": "Karditsa"
+      },
+      {
+        "state": "Kastoria"
+      },
+      {
+        "state": "Kavala"
+      },
+      {
+        "state": "Kefallinia"
+      },
+      {
+        "state": "Kerkyra"
+      },
+      {
+        "state": "Kilkis"
+      },
+      {
+        "state": "Korinthia"
+      },
+      {
+        "state": "Kozani"
+      },
+      {
+        "state": "Kyklades"
+      },
+      {
+        "state": "Lakonia"
+      },
+      {
+        "state": "Larisa"
+      },
+      {
+        "state": "Lasithi"
+      },
+      {
+        "state": "Lefkas"
+      },
+      {
+        "state": "Lesvos"
+      },
+      {
+        "state": "Magnisia"
+      },
+      {
+        "state": "Messinia"
+      },
+      {
+        "state": "Pella"
+      },
+      {
+        "state": "Pieria"
+      },
+      {
+        "state": "Preveza"
+      },
+      {
+        "state": "Rethynnis"
+      },
+      {
+        "state": "Rodopi"
+      },
+      {
+        "state": "Samos"
+      },
+      {
+        "state": "Serrai"
+      },
+      {
+        "state": "Thesprotia"
+      },
+      {
+        "state": "Thessaloniki"
+      },
+      {
+        "state": "Trikala"
+      },
+      {
+        "state": "Voiotia"
+      },
+      {
+        "state": "Xanthi"
+      },
+      {
+        "state": "Zakynthos"
+      }
+    ],
+    "name": "Greece",
+    "alpha2Code": "GR"
+  },
+  {
+    "states": [
+      {
+        "state": "Avannaa (Nordgronland)"
+      },
+      {
+        "state": "Tunu (Ostgronland)"
+      },
+      {
+        "state": "Kitaa (Vestgronland)"
+      }
+    ],
+    "name": "Greenland",
+    "alpha2Code": "GL"
+  },
+  {
+    "states": [
+      {
+        "state": "Carriacou and Petit Martinique"
+      },
+      {
+        "state": "Saint Andrew"
+      },
+      {
+        "state": "Saint David"
+      },
+      {
+        "state": "Saint George"
+      },
+      {
+        "state": "Saint John"
+      },
+      {
+        "state": "Saint Mark"
+      },
+      {
+        "state": "Saint Patrick"
+      }
+    ],
+    "name": "Grenada",
+    "alpha2Code": "GD"
+  },
+  {
+    "states": [
+      {
+        "state": "Alta Verapaz"
+      },
+      {
+        "state": "Baja Verapaz"
+      },
+      {
+        "state": "Chimaltenango"
+      },
+      {
+        "state": "Chiquimula"
+      },
+      {
+        "state": "El Progreso"
+      },
+      {
+        "state": "Escuintla"
+      },
+      {
+        "state": "Guatemala"
+      },
+      {
+        "state": "Huehuetenango"
+      },
+      {
+        "state": "Izabal"
+      },
+      {
+        "state": "Jalapa"
+      },
+      {
+        "state": "Jutiapa"
+      },
+      {
+        "state": "Peten"
+      },
+      {
+        "state": "Quetzaltenango"
+      },
+      {
+        "state": "Quiche"
+      },
+      {
+        "state": "Retalhuleu"
+      },
+      {
+        "state": "Sacatepequez"
+      },
+      {
+        "state": "San Marcos"
+      },
+      {
+        "state": "Santa Rosa"
+      },
+      {
+        "state": "Solola"
+      },
+      {
+        "state": "Suchitepequez"
+      },
+      {
+        "state": "Totonicapan"
+      },
+      {
+        "state": "Zacapa"
+      }
+    ],
+    "name": "Guatemala",
+    "alpha2Code": "GT"
+  },
+  {
+    "states": [
+      {
+        "state": "Beyla"
+      },
+      {
+        "state": "Boffa"
+      },
+      {
+        "state": "Boke"
+      },
+      {
+        "state": "Conakry"
+      },
+      {
+        "state": "Coyah"
+      },
+      {
+        "state": "Dabola"
+      },
+      {
+        "state": "Dalaba"
+      },
+      {
+        "state": "Dinguiraye"
+      },
+      {
+        "state": "Dubreka"
+      },
+      {
+        "state": "Faranah"
+      },
+      {
+        "state": "Forecariah"
+      },
+      {
+        "state": "Fria"
+      },
+      {
+        "state": "Gaoual"
+      },
+      {
+        "state": "Gueckedou"
+      },
+      {
+        "state": "Kankan"
+      },
+      {
+        "state": "Kerouane"
+      },
+      {
+        "state": "Kindia"
+      },
+      {
+        "state": "Kissidougou"
+      },
+      {
+        "state": "Koubia"
+      },
+      {
+        "state": "Koundara"
+      },
+      {
+        "state": "Kouroussa"
+      },
+      {
+        "state": "Labe"
+      },
+      {
+        "state": "Lelouma"
+      },
+      {
+        "state": "Lola"
+      },
+      {
+        "state": "Macenta"
+      },
+      {
+        "state": "Mali"
+      },
+      {
+        "state": "Mamou"
+      },
+      {
+        "state": "Mandiana"
+      },
+      {
+        "state": "Nzerekore"
+      },
+      {
+        "state": "Pita"
+      },
+      {
+        "state": "Siguiri"
+      },
+      {
+        "state": "Telimele"
+      },
+      {
+        "state": "Tougue"
+      },
+      {
+        "state": "Yomou"
+      }
+    ],
+    "name": "Guinea",
+    "alpha2Code": "GN"
+  },
+  {
+    "states": [
+      {
+        "state": "Bafata"
+      },
+      {
+        "state": "Biombo"
+      },
+      {
+        "state": "Bissau"
+      },
+      {
+        "state": "Bolama"
+      },
+      {
+        "state": "Cacheu"
+      },
+      {
+        "state": "Gabu"
+      },
+      {
+        "state": "Oio"
+      },
+      {
+        "state": "Quinara"
+      },
+      {
+        "state": "Tombali"
+      }
+    ],
+    "name": "Guinea-Bissau",
+    "alpha2Code": "GW"
+  },
+  {
+    "states": [
+      {
+        "state": "Barima-Waini"
+      },
+      {
+        "state": "Cuyuni-Mazaruni"
+      },
+      {
+        "state": "Demerara-Mahaica"
+      },
+      {
+        "state": "East Berbice-Corentyne"
+      },
+      {
+        "state": "Essequibo Islands-West Demerara"
+      },
+      {
+        "state": "Mahaica-Berbice"
+      },
+      {
+        "state": "Pomeroon-Supenaam"
+      },
+      {
+        "state": "Potaro-Siparuni"
+      },
+      {
+        "state": "Upper Demerara-Berbice"
+      },
+      {
+        "state": "Upper Takutu-Upper Essequibo"
+      }
+    ],
+    "name": "Guyana",
+    "alpha2Code": "GY"
+  },
+  {
+    "states": [
+      {
+        "state": "Artibonite"
+      },
+      {
+        "state": "Centre"
+      },
+      {
+        "state": "Grand 'Anse"
+      },
+      {
+        "state": "Nord"
+      },
+      {
+        "state": "Nord-Est"
+      },
+      {
+        "state": "Nord-Ouest"
+      },
+      {
+        "state": "Ouest"
+      },
+      {
+        "state": "Sud"
+      },
+      {
+        "state": "Sud-Est"
+      }
+    ],
+    "name": "Haiti",
+    "alpha2Code": "HT"
+  },
+  {
+    "states": [
+      {
+        "state": "Atlantida"
+      },
+      {
+        "state": "Choluteca"
+      },
+      {
+        "state": "Colon"
+      },
+      {
+        "state": "Comayagua"
+      },
+      {
+        "state": "Copan"
+      },
+      {
+        "state": "Cortes"
+      },
+      {
+        "state": "El Paraiso"
+      },
+      {
+        "state": "Francisco Morazan"
+      },
+      {
+        "state": "Gracias a Dios"
+      },
+      {
+        "state": "Intibuca"
+      },
+      {
+        "state": "Islas de la Bahia"
+      },
+      {
+        "state": "La Paz"
+      },
+      {
+        "state": "Lempira"
+      },
+      {
+        "state": "Ocotepeque"
+      },
+      {
+        "state": "Olancho"
+      },
+      {
+        "state": "Santa Barbara"
+      },
+      {
+        "state": "Valle"
+      },
+      {
+        "state": "Yoro"
+      }
+    ],
+    "name": "Honduras",
+    "alpha2Code": "HN"
+  },
+  {
+    "states": [],
+    "name": "Hong Kong",
+    "alpha2Code": "HK"
+  },
+  {
+    "states": [
+      {
+        "state": "Bacs-Kiskun"
+      },
+      {
+        "state": "Baranya"
+      },
+      {
+        "state": "Bekes"
+      },
+      {
+        "state": "Borsod-Abauj-Zemplen"
+      },
+      {
+        "state": "Csongrad"
+      },
+      {
+        "state": "Fejer"
+      },
+      {
+        "state": "Gyor-Moson-Sopron"
+      },
+      {
+        "state": "Hajdu-Bihar"
+      },
+      {
+        "state": "Heves"
+      },
+      {
+        "state": "Jasz-Nagykun-Szolnok"
+      },
+      {
+        "state": "Komarom-Esztergom"
+      },
+      {
+        "state": "Nograd"
+      },
+      {
+        "state": "Pest"
+      },
+      {
+        "state": "Somogy"
+      },
+      {
+        "state": "Szabolcs-Szatmar-Bereg"
+      },
+      {
+        "state": "Tolna"
+      },
+      {
+        "state": "Vas"
+      },
+      {
+        "state": "Veszprem"
+      },
+      {
+        "state": "Zala"
+      },
+      {
+        "state": "Bekescsaba"
+      },
+      {
+        "state": "Debrecen"
+      },
+      {
+        "state": "Dunaujvaros"
+      },
+      {
+        "state": "Eger"
+      },
+      {
+        "state": "Gyor"
+      },
+      {
+        "state": "Hodmezovasarhely"
+      },
+      {
+        "state": "Kaposvar"
+      },
+      {
+        "state": "Kecskemet"
+      },
+      {
+        "state": "Miskolc"
+      },
+      {
+        "state": "Nagykanizsa"
+      },
+      {
+        "state": "Nyiregyhaza"
+      },
+      {
+        "state": "Pecs"
+      },
+      {
+        "state": "Sopron"
+      },
+      {
+        "state": "Szeged"
+      },
+      {
+        "state": "Szekesfehervar"
+      },
+      {
+        "state": "Szolnok"
+      },
+      {
+        "state": "Szombathely"
+      },
+      {
+        "state": "Tatabanya"
+      },
+      {
+        "state": "Veszprem"
+      },
+      {
+        "state": "Zalaegerszeg"
+      }
+    ],
+    "name": "Hungary",
+    "alpha2Code": "HU"
+  },
+  {
+    "states": [
+      {
+        "state": "Austurland"
+      },
+      {
+        "state": "Hofudhborgarsvaedhi"
+      },
+      {
+        "state": "Nordhurland Eystra"
+      },
+      {
+        "state": "Nordhurland Vestra"
+      },
+      {
+        "state": "Sudhurland"
+      },
+      {
+        "state": "Sudhurnes"
+      },
+      {
+        "state": "Vestfirdhir"
+      },
+      {
+        "state": "Vesturland"
+      }
+    ],
+    "name": "Iceland",
+    "alpha2Code": "IS"
+  },
+  {
+    "states": [
+      {
+        "state": "Andaman and Nicobar Islands"
+      },
+      {
+        "state": "Andhra Pradesh"
+      },
+      {
+        "state": "Arunachal Pradesh"
+      },
+      {
+        "state": "Assam"
+      },
+      {
+        "state": "Bihar"
+      },
+      {
+        "state": "Chandigarh"
+      },
+      {
+        "state": "Chhattisgarh"
+      },
+      {
+        "state": "Dadra and Nagar Haveli"
+      },
+      {
+        "state": "Daman and Diu"
+      },
+      {
+        "state": "Delhi"
+      },
+      {
+        "state": "Goa"
+      },
+      {
+        "state": "Gujarat"
+      },
+      {
+        "state": "Haryana"
+      },
+      {
+        "state": "Himachal Pradesh"
+      },
+      {
+        "state": "Jammu and Kashmir"
+      },
+      {
+        "state": "Jharkhand"
+      },
+      {
+        "state": "Karnataka"
+      },
+      {
+        "state": "Kerala"
+      },
+      {
+        "state": "Lakshadweep"
+      },
+      {
+        "state": "Madhya Pradesh"
+      },
+      {
+        "state": "Maharashtra"
+      },
+      {
+        "state": "Manipur"
+      },
+      {
+        "state": "Meghalaya"
+      },
+      {
+        "state": "Mizoram"
+      },
+      {
+        "state": "Nagaland"
+      },
+      {
+        "state": "Orissa"
+      },
+      {
+        "state": "Pondicherry"
+      },
+      {
+        "state": "Punjab"
+      },
+      {
+        "state": "Rajasthan"
+      },
+      {
+        "state": "Sikkim"
+      },
+      {
+        "state": "Tamil Nadu"
+      },
+      {
+        "state": "Tripura"
+      },
+      {
+        "state": "Uttaranchal"
+      },
+      {
+        "state": "Uttar Pradesh"
+      },
+      {
+        "state": "West Bengal"
+      }
+    ],
+    "name": "India",
+    "alpha2Code": "IN"
+  },
+  {
+    "states": [
+      {
+        "state": "Aceh"
+      },
+      {
+        "state": "Bali"
+      },
+      {
+        "state": "Banten"
+      },
+      {
+        "state": "Bengkulu"
+      },
+      {
+        "state": "Gorontalo"
+      },
+      {
+        "state": "Irian Jaya Barat"
+      },
+      {
+        "state": "Jakarta Raya"
+      },
+      {
+        "state": "Jambi"
+      },
+      {
+        "state": "Jawa Barat"
+      },
+      {
+        "state": "Jawa Tengah"
+      },
+      {
+        "state": "Jawa Timur"
+      },
+      {
+        "state": "Kalimantan Barat"
+      },
+      {
+        "state": "Kalimantan Selatan"
+      },
+      {
+        "state": "Kalimantan Tengah"
+      },
+      {
+        "state": "Kalimantan Timur"
+      },
+      {
+        "state": "Kepulauan Bangka Belitung"
+      },
+      {
+        "state": "Kepulauan Riau"
+      },
+      {
+        "state": "Lampung"
+      },
+      {
+        "state": "Maluku"
+      },
+      {
+        "state": "Maluku Utara"
+      },
+      {
+        "state": "Nusa Tenggara Barat"
+      },
+      {
+        "state": "Nusa Tenggara Timur"
+      },
+      {
+        "state": "Papua"
+      },
+      {
+        "state": "Riau"
+      },
+      {
+        "state": "Sulawesi Barat"
+      },
+      {
+        "state": "Sulawesi Selatan"
+      },
+      {
+        "state": "Sulawesi Tengah"
+      },
+      {
+        "state": "Sulawesi Tenggara"
+      },
+      {
+        "state": "Sulawesi Utara"
+      },
+      {
+        "state": "Sumatera Barat"
+      },
+      {
+        "state": "Sumatera Selatan"
+      },
+      {
+        "state": "Sumatera Utara"
+      },
+      {
+        "state": "Yogyakarta"
+      }
+    ],
+    "name": "Indonesia",
+    "alpha2Code": "ID"
+  },
+  {
+    "states": [
+      {
+        "state": "Al Anbar"
+      },
+      {
+        "state": "Al Basrah"
+      },
+      {
+        "state": "Al Muthanna"
+      },
+      {
+        "state": "Al Qadisiyah"
+      },
+      {
+        "state": "An Najaf"
+      },
+      {
+        "state": "Arbil"
+      },
+      {
+        "state": "As Sulaymaniyah"
+      },
+      {
+        "state": "At Ta'mim"
+      },
+      {
+        "state": "Babil"
+      },
+      {
+        "state": "Baghdad"
+      },
+      {
+        "state": "Dahuk"
+      },
+      {
+        "state": "Dhi Qar"
+      },
+      {
+        "state": "Diyala"
+      },
+      {
+        "state": "Karbala'"
+      },
+      {
+        "state": "Maysan"
+      },
+      {
+        "state": "Ninawa"
+      },
+      {
+        "state": "Salah ad Din"
+      },
+      {
+        "state": "Wasit"
+      }
+    ],
+    "name": "Iraq",
+    "alpha2Code": "IQ"
+  },
+  {
+    "states": [
+      {
+        "state": "Carlow"
+      },
+      {
+        "state": "Cavan"
+      },
+      {
+        "state": "Clare"
+      },
+      {
+        "state": "Cork"
+      },
+      {
+        "state": "Donegal"
+      },
+      {
+        "state": "Dublin"
+      },
+      {
+        "state": "Galway"
+      },
+      {
+        "state": "Kerry"
+      },
+      {
+        "state": "Kildare"
+      },
+      {
+        "state": "Kilkenny"
+      },
+      {
+        "state": "Laois"
+      },
+      {
+        "state": "Leitrim"
+      },
+      {
+        "state": "Limerick"
+      },
+      {
+        "state": "Longford"
+      },
+      {
+        "state": "Louth"
+      },
+      {
+        "state": "Mayo"
+      },
+      {
+        "state": "Meath"
+      },
+      {
+        "state": "Monaghan"
+      },
+      {
+        "state": "Offaly"
+      },
+      {
+        "state": "Roscommon"
+      },
+      {
+        "state": "Sligo"
+      },
+      {
+        "state": "Tipperary"
+      },
+      {
+        "state": "Waterford"
+      },
+      {
+        "state": "Westmeath"
+      },
+      {
+        "state": "Wexford"
+      },
+      {
+        "state": "Wicklow"
+      }
+    ],
+    "name": "Ireland",
+    "alpha2Code": "IE"
+  },
+  {
+    "states": [
+      {
+        "state": "Central"
+      },
+      {
+        "state": "Haifa"
+      },
+      {
+        "state": "Jerusalem"
+      },
+      {
+        "state": "Northern"
+      },
+      {
+        "state": "Southern"
+      },
+      {
+        "state": "Tel Aviv"
+      }
+    ],
+    "name": "Israel",
+    "alpha2Code": "IL"
+  },
+  {
+    "states": [
+      {
+        "state": "Abruzzo"
+      },
+      {
+        "state": "Basilicata"
+      },
+      {
+        "state": "Calabria"
+      },
+      {
+        "state": "Campania"
+      },
+      {
+        "state": "Emilia-Romagna"
+      },
+      {
+        "state": "Friuli-Venezia Giulia"
+      },
+      {
+        "state": "Lazio"
+      },
+      {
+        "state": "Liguria"
+      },
+      {
+        "state": "Lombardia"
+      },
+      {
+        "state": "Marche"
+      },
+      {
+        "state": "Molise"
+      },
+      {
+        "state": "Piemonte"
+      },
+      {
+        "state": "Puglia"
+      },
+      {
+        "state": "Sardegna"
+      },
+      {
+        "state": "Sicilia"
+      },
+      {
+        "state": "Toscana"
+      },
+      {
+        "state": "Trentino-Alto Adige"
+      },
+      {
+        "state": "Umbria"
+      },
+      {
+        "state": "Valle d'Aosta"
+      },
+      {
+        "state": "Veneto"
+      }
+    ],
+    "name": "Italy",
+    "alpha2Code": "IT"
+  },
+  {
+    "states": [
+      {
+        "state": "Clarendon"
+      },
+      {
+        "state": "Hanover"
+      },
+      {
+        "state": "Kingston"
+      },
+      {
+        "state": "Manchester"
+      },
+      {
+        "state": "Portland"
+      },
+      {
+        "state": "Saint Andrew"
+      },
+      {
+        "state": "Saint Ann"
+      },
+      {
+        "state": "Saint Catherine"
+      },
+      {
+        "state": "Saint Elizabeth"
+      },
+      {
+        "state": "Saint James"
+      },
+      {
+        "state": "Saint Mary"
+      },
+      {
+        "state": "Saint Thomas"
+      },
+      {
+        "state": "Trelawny"
+      },
+      {
+        "state": "Westmoreland"
+      }
+    ],
+    "name": "Jamaica",
+    "alpha2Code": "JM"
+  },
+  {
+    "states": [
+      {
+        "state": "Aichi"
+      },
+      {
+        "state": "Akita"
+      },
+      {
+        "state": "Aomori"
+      },
+      {
+        "state": "Chiba"
+      },
+      {
+        "state": "Ehime"
+      },
+      {
+        "state": "Fukui"
+      },
+      {
+        "state": "Fukuoka"
+      },
+      {
+        "state": "Fukushima"
+      },
+      {
+        "state": "Gifu"
+      },
+      {
+        "state": "Gumma"
+      },
+      {
+        "state": "Hiroshima"
+      },
+      {
+        "state": "Hokkaido"
+      },
+      {
+        "state": "Hyogo"
+      },
+      {
+        "state": "Ibaraki"
+      },
+      {
+        "state": "Ishikawa"
+      },
+      {
+        "state": "Iwate"
+      },
+      {
+        "state": "Kagawa"
+      },
+      {
+        "state": "Kagoshima"
+      },
+      {
+        "state": "Kanagawa"
+      },
+      {
+        "state": "Kochi"
+      },
+      {
+        "state": "Kumamoto"
+      },
+      {
+        "state": "Kyoto"
+      },
+      {
+        "state": "Mie"
+      },
+      {
+        "state": "Miyagi"
+      },
+      {
+        "state": "Miyazaki"
+      },
+      {
+        "state": "Nagano"
+      },
+      {
+        "state": "Nagasaki"
+      },
+      {
+        "state": "Nara"
+      },
+      {
+        "state": "Niigata"
+      },
+      {
+        "state": "Oita"
+      },
+      {
+        "state": "Okayama"
+      },
+      {
+        "state": "Okinawa"
+      },
+      {
+        "state": "Osaka"
+      },
+      {
+        "state": "Saga"
+      },
+      {
+        "state": "Saitama"
+      },
+      {
+        "state": "Shiga"
+      },
+      {
+        "state": "Shimane"
+      },
+      {
+        "state": "Shizuoka"
+      },
+      {
+        "state": "Tochigi"
+      },
+      {
+        "state": "Tokushima"
+      },
+      {
+        "state": "Tokyo"
+      },
+      {
+        "state": "Tottori"
+      },
+      {
+        "state": "Toyama"
+      },
+      {
+        "state": "Wakayama"
+      },
+      {
+        "state": "Yamagata"
+      },
+      {
+        "state": "Yamaguchi"
+      },
+      {
+        "state": "Yamanashi"
+      }
+    ],
+    "name": "Japan",
+    "alpha2Code": "JP"
+  },
+  {
+    "states": [
+      {
+        "state": "Ajlun"
+      },
+      {
+        "state": "Al 'Aqabah"
+      },
+      {
+        "state": "Al Balqa'"
+      },
+      {
+        "state": "Al Karak"
+      },
+      {
+        "state": "Al Mafraq"
+      },
+      {
+        "state": "'Amman"
+      },
+      {
+        "state": "At Tafilah"
+      },
+      {
+        "state": "Az Zarqa'"
+      },
+      {
+        "state": "Irbid"
+      },
+      {
+        "state": "Jarash"
+      },
+      {
+        "state": "Ma'an"
+      },
+      {
+        "state": "Madaba"
+      }
+    ],
+    "name": "Jordan",
+    "alpha2Code": "JO"
+  },
+  {
+    "states": [
+      {
+        "state": "Almaty Oblysy"
+      },
+      {
+        "state": "Almaty Qalasy"
+      },
+      {
+        "state": "Aqmola Oblysy"
+      },
+      {
+        "state": "Aqtobe Oblysy"
+      },
+      {
+        "state": "Astana Qalasy"
+      },
+      {
+        "state": "Atyrau Oblysy"
+      },
+      {
+        "state": "Batys Qazaqstan Oblysy"
+      },
+      {
+        "state": "Bayqongyr Qalasy"
+      },
+      {
+        "state": "Mangghystau Oblysy"
+      },
+      {
+        "state": "Ongtustik Qazaqstan Oblysy"
+      },
+      {
+        "state": "Pavlodar Oblysy"
+      },
+      {
+        "state": "Qaraghandy Oblysy"
+      },
+      {
+        "state": "Qostanay Oblysy"
+      },
+      {
+        "state": "Qyzylorda Oblysy"
+      },
+      {
+        "state": "Shyghys Qazaqstan Oblysy"
+      },
+      {
+        "state": "Soltustik Qazaqstan Oblysy"
+      },
+      {
+        "state": "Zhambyl Oblysy"
+      }
+    ],
+    "name": "Kazakhstan",
+    "alpha2Code": "KZ"
+  },
+  {
+    "states": [
+      {
+        "state": "Central"
+      },
+      {
+        "state": "Coast"
+      },
+      {
+        "state": "Eastern"
+      },
+      {
+        "state": "Nairobi Area"
+      },
+      {
+        "state": "North Eastern"
+      },
+      {
+        "state": "Nyanza"
+      },
+      {
+        "state": "Rift Valley"
+      },
+      {
+        "state": "Western"
+      }
+    ],
+    "name": "Kenya",
+    "alpha2Code": "KE"
+  },
+  {
+    "states": [],
+    "name": "Kiribati",
+    "alpha2Code": "KI"
+  },
+  {
+    "states": [
+      {
+        "state": "Al Ahmadi"
+      },
+      {
+        "state": "Al Farwaniyah"
+      },
+      {
+        "state": "Al Asimah"
+      },
+      {
+        "state": "Al Jahra"
+      },
+      {
+        "state": "Hawalli"
+      },
+      {
+        "state": "Mubarak Al-Kabeer"
+      }
+    ],
+    "name": "Kuwait",
+    "alpha2Code": "KW"
+  },
+  {
+    "states": [
+      {
+        "state": "Batken Oblasty"
+      },
+      {
+        "state": "Bishkek Shaary"
+      },
+      {
+        "state": "Chuy Oblasty"
+      },
+      {
+        "state": "Jalal-Abad Oblasty"
+      },
+      {
+        "state": "Naryn Oblasty"
+      },
+      {
+        "state": "Osh Oblasty"
+      },
+      {
+        "state": "Talas Oblasty"
+      },
+      {
+        "state": "Ysyk-Kol Oblasty"
+      }
+    ],
+    "name": "Kyrgyzstan",
+    "alpha2Code": "KG"
+  },
+  {
+    "states": [
+      {
+        "state": "Aizkraukles Rajons"
+      },
+      {
+        "state": "Aluksnes Rajons"
+      },
+      {
+        "state": "Balvu Rajons"
+      },
+      {
+        "state": "Bauskas Rajons"
+      },
+      {
+        "state": "Cesu Rajons"
+      },
+      {
+        "state": "Daugavpils"
+      },
+      {
+        "state": "Daugavpils Rajons"
+      },
+      {
+        "state": "Dobeles Rajons"
+      },
+      {
+        "state": "Gulbenes Rajons"
+      },
+      {
+        "state": "Jekabpils Rajons"
+      },
+      {
+        "state": "Jelgava"
+      },
+      {
+        "state": "Jelgavas Rajons"
+      },
+      {
+        "state": "Jurmala"
+      },
+      {
+        "state": "Kraslavas Rajons"
+      },
+      {
+        "state": "Kuldigas Rajons"
+      },
+      {
+        "state": "Liepaja"
+      },
+      {
+        "state": "Liepajas Rajons"
+      },
+      {
+        "state": "Limbazu Rajons"
+      },
+      {
+        "state": "Ludzas Rajons"
+      },
+      {
+        "state": "Madonas Rajons"
+      },
+      {
+        "state": "Ogres Rajons"
+      },
+      {
+        "state": "Preilu Rajons"
+      },
+      {
+        "state": "Rezekne"
+      },
+      {
+        "state": "Rezeknes Rajons"
+      },
+      {
+        "state": "Riga"
+      },
+      {
+        "state": "Rigas Rajons"
+      },
+      {
+        "state": "Saldus Rajons"
+      },
+      {
+        "state": "Talsu Rajons"
+      },
+      {
+        "state": "Tukuma Rajons"
+      },
+      {
+        "state": "Valkas Rajons"
+      },
+      {
+        "state": "Valmieras Rajons"
+      },
+      {
+        "state": "Ventspils"
+      },
+      {
+        "state": "Ventspils Rajons"
+      }
+    ],
+    "name": "Latvia",
+    "alpha2Code": "LV"
+  },
+  {
+    "states": [
+      {
+        "state": "Beyrouth"
+      },
+      {
+        "state": "Beqaa"
+      },
+      {
+        "state": "Liban-Nord"
+      },
+      {
+        "state": "Liban-Sud"
+      },
+      {
+        "state": "Mont-Liban"
+      },
+      {
+        "state": "Nabatiye"
+      }
+    ],
+    "name": "Lebanon",
+    "alpha2Code": "LB"
+  },
+  {
+    "states": [
+      {
+        "state": "Berea"
+      },
+      {
+        "state": "Butha-Buthe"
+      },
+      {
+        "state": "Leribe"
+      },
+      {
+        "state": "Mafeteng"
+      },
+      {
+        "state": "Maseru"
+      },
+      {
+        "state": "Mohale's Hoek"
+      },
+      {
+        "state": "Mokhotlong"
+      },
+      {
+        "state": "Qacha's Nek"
+      },
+      {
+        "state": "Quthing"
+      },
+      {
+        "state": "Thaba-Tseka"
+      }
+    ],
+    "name": "Lesotho",
+    "alpha2Code": "LS"
+  },
+  {
+    "states": [
+      {
+        "state": "Bomi"
+      },
+      {
+        "state": "Bong"
+      },
+      {
+        "state": "Gbarpolu"
+      },
+      {
+        "state": "Grand Bassa"
+      },
+      {
+        "state": "Grand Cape Mount"
+      },
+      {
+        "state": "Grand Gedeh"
+      },
+      {
+        "state": "Grand Kru"
+      },
+      {
+        "state": "Lofa"
+      },
+      {
+        "state": "Margibi"
+      },
+      {
+        "state": "Maryland"
+      },
+      {
+        "state": "Montserrado"
+      },
+      {
+        "state": "Nimba"
+      },
+      {
+        "state": "River Cess"
+      },
+      {
+        "state": "River Gee"
+      },
+      {
+        "state": "Sinoe"
+      }
+    ],
+    "name": "Liberia",
+    "alpha2Code": "LR"
+  },
+  {
+    "states": [
+      {
+        "state": "Balzers"
+      },
+      {
+        "state": "Eschen"
+      },
+      {
+        "state": "Gamprin"
+      },
+      {
+        "state": "Mauren"
+      },
+      {
+        "state": "Planken"
+      },
+      {
+        "state": "Ruggell"
+      },
+      {
+        "state": "Schaan"
+      },
+      {
+        "state": "Schellenberg"
+      },
+      {
+        "state": "Triesen"
+      },
+      {
+        "state": "Triesenberg"
+      },
+      {
+        "state": "Vaduz"
+      }
+    ],
+    "name": "Liechtenstein",
+    "alpha2Code": "LI"
+  },
+  {
+    "states": [
+      {
+        "state": "Alytaus"
+      },
+      {
+        "state": "Kauno"
+      },
+      {
+        "state": "Klaipedos"
+      },
+      {
+        "state": "Marijampoles"
+      },
+      {
+        "state": "Panevezio"
+      },
+      {
+        "state": "Siauliu"
+      },
+      {
+        "state": "Taurages"
+      },
+      {
+        "state": "Telsiu"
+      },
+      {
+        "state": "Utenos"
+      },
+      {
+        "state": "Vilniaus"
+      }
+    ],
+    "name": "Lithuania",
+    "alpha2Code": "LT"
+  },
+  {
+    "states": [
+      {
+        "state": "Diekirch"
+      },
+      {
+        "state": "Grevenmacher"
+      },
+      {
+        "state": "Luxembourg"
+      }
+    ],
+    "name": "Luxembourg",
+    "alpha2Code": "LU"
+  },
+  {
+    "states": [
+      {
+        "state": "Antananarivo"
+      },
+      {
+        "state": "Antsiranana"
+      },
+      {
+        "state": "Fianarantsoa"
+      },
+      {
+        "state": "Mahajanga"
+      },
+      {
+        "state": "Toamasina"
+      },
+      {
+        "state": "Toliara"
+      }
+    ],
+    "name": "Madagascar",
+    "alpha2Code": "MG"
+  },
+  {
+    "states": [
+      {
+        "state": "Balaka"
+      },
+      {
+        "state": "Blantyre"
+      },
+      {
+        "state": "Chikwawa"
+      },
+      {
+        "state": "Chiradzulu"
+      },
+      {
+        "state": "Chitipa"
+      },
+      {
+        "state": "Dedza"
+      },
+      {
+        "state": "Dowa"
+      },
+      {
+        "state": "Karonga"
+      },
+      {
+        "state": "Kasungu"
+      },
+      {
+        "state": "Likoma"
+      },
+      {
+        "state": "Lilongwe"
+      },
+      {
+        "state": "Machinga"
+      },
+      {
+        "state": "Mangochi"
+      },
+      {
+        "state": "Mchinji"
+      },
+      {
+        "state": "Mulanje"
+      },
+      {
+        "state": "Mwanza"
+      },
+      {
+        "state": "Mzimba"
+      },
+      {
+        "state": "Ntcheu"
+      },
+      {
+        "state": "Nkhata Bay"
+      },
+      {
+        "state": "Nkhotakota"
+      },
+      {
+        "state": "Nsanje"
+      },
+      {
+        "state": "Ntchisi"
+      },
+      {
+        "state": "Phalombe"
+      },
+      {
+        "state": "Rumphi"
+      },
+      {
+        "state": "Salima"
+      },
+      {
+        "state": "Thyolo"
+      },
+      {
+        "state": "Zomba"
+      }
+    ],
+    "name": "Malawi",
+    "alpha2Code": "MW"
+  },
+  {
+    "states": [
+      {
+        "state": "Johor"
+      },
+      {
+        "state": "Kedah"
+      },
+      {
+        "state": "Kelantan"
+      },
+      {
+        "state": "Kuala Lumpur"
+      },
+      {
+        "state": "Labuan"
+      },
+      {
+        "state": "Malacca"
+      },
+      {
+        "state": "Negeri Sembilan"
+      },
+      {
+        "state": "Pahang"
+      },
+      {
+        "state": "Perak"
+      },
+      {
+        "state": "Perlis"
+      },
+      {
+        "state": "Penang"
+      },
+      {
+        "state": "Sabah"
+      },
+      {
+        "state": "Sarawak"
+      },
+      {
+        "state": "Selangor"
+      },
+      {
+        "state": "Terengganu"
+      }
+    ],
+    "name": "Malaysia",
+    "alpha2Code": "MY"
+  },
+  {
+    "states": [
+      {
+        "state": "Alifu"
+      },
+      {
+        "state": "Baa"
+      },
+      {
+        "state": "Dhaalu"
+      },
+      {
+        "state": "Faafu"
+      },
+      {
+        "state": "Gaafu Alifu"
+      },
+      {
+        "state": "Gaafu Dhaalu"
+      },
+      {
+        "state": "Gnaviyani"
+      },
+      {
+        "state": "Haa Alifu"
+      },
+      {
+        "state": "Haa Dhaalu"
+      },
+      {
+        "state": "Kaafu"
+      },
+      {
+        "state": "Laamu"
+      },
+      {
+        "state": "Lhaviyani"
+      },
+      {
+        "state": "Maale"
+      },
+      {
+        "state": "Meemu"
+      },
+      {
+        "state": "Noonu"
+      },
+      {
+        "state": "Raa"
+      },
+      {
+        "state": "Seenu"
+      },
+      {
+        "state": "Shaviyani"
+      },
+      {
+        "state": "Thaa"
+      },
+      {
+        "state": "Vaavu"
+      }
+    ],
+    "name": "Maldives",
+    "alpha2Code": "MV"
+  },
+  {
+    "states": [
+      {
+        "state": "Bamako (Capital)"
+      },
+      {
+        "state": "Gao"
+      },
+      {
+        "state": "Kayes"
+      },
+      {
+        "state": "Kidal"
+      },
+      {
+        "state": "Koulikoro"
+      },
+      {
+        "state": "Mopti"
+      },
+      {
+        "state": "Segou"
+      },
+      {
+        "state": "Sikasso"
+      },
+      {
+        "state": "Tombouctou"
+      }
+    ],
+    "name": "Mali",
+    "alpha2Code": "ML"
+  },
+  {
+    "states": [],
+    "name": "Malta",
+    "alpha2Code": "MT"
+  },
+  {
+    "states": [],
+    "name": "Marshall Islands",
+    "alpha2Code": "MH"
+  },
+  {
+    "states": [
+      {
+        "state": "Adrar"
+      },
+      {
+        "state": "Assaba"
+      },
+      {
+        "state": "Brakna"
+      },
+      {
+        "state": "Dakhlet Nouadhibou"
+      },
+      {
+        "state": "Gorgol"
+      },
+      {
+        "state": "Guidimaka"
+      },
+      {
+        "state": "Hodh Ech Chargui"
+      },
+      {
+        "state": "Hodh El Gharbi"
+      },
+      {
+        "state": "Inchiri"
+      },
+      {
+        "state": "Nouakchott"
+      },
+      {
+        "state": "Tagant"
+      },
+      {
+        "state": "Tiris Zemmour"
+      },
+      {
+        "state": "Trarza"
+      }
+    ],
+    "name": "Mauritania",
+    "alpha2Code": "MR"
+  },
+  {
+    "states": [
+      {
+        "state": "Agalega Islands"
+      },
+      {
+        "state": "Black River"
+      },
+      {
+        "state": "Cargados Carajos Shoals"
+      },
+      {
+        "state": "Flacq"
+      },
+      {
+        "state": "Grand Port"
+      },
+      {
+        "state": "Moka"
+      },
+      {
+        "state": "Pamplemousses"
+      },
+      {
+        "state": "Plaines Wilhems"
+      },
+      {
+        "state": "Port Louis"
+      },
+      {
+        "state": "Riviere du Rempart"
+      },
+      {
+        "state": "Rodrigues"
+      },
+      {
+        "state": "Savanne"
+      }
+    ],
+    "name": "Mauritius",
+    "alpha2Code": "MU"
+  },
+  {
+    "states": [
+      {
+        "state": "Aguascalientes"
+      },
+      {
+        "state": "Baja California"
+      },
+      {
+        "state": "Baja California Sur"
+      },
+      {
+        "state": "Campeche"
+      },
+      {
+        "state": "Chiapas"
+      },
+      {
+        "state": "Chihuahua"
+      },
+      {
+        "state": "Coahuila de Zaragoza"
+      },
+      {
+        "state": "Colima"
+      },
+      {
+        "state": "Distrito Federal"
+      },
+      {
+        "state": "Durango"
+      },
+      {
+        "state": "Guanajuato"
+      },
+      {
+        "state": "Guerrero"
+      },
+      {
+        "state": "Hidalgo"
+      },
+      {
+        "state": "Jalisco"
+      },
+      {
+        "state": "Mexico"
+      },
+      {
+        "state": "Michoacan de Ocampo"
+      },
+      {
+        "state": "Morelos"
+      },
+      {
+        "state": "Nayarit"
+      },
+      {
+        "state": "Nuevo Leon"
+      },
+      {
+        "state": "Oaxaca"
+      },
+      {
+        "state": "Puebla"
+      },
+      {
+        "state": "Queretaro de Arteaga"
+      },
+      {
+        "state": "Quintana Roo"
+      },
+      {
+        "state": "San Luis Potosi"
+      },
+      {
+        "state": "Sinaloa"
+      },
+      {
+        "state": "Sonora"
+      },
+      {
+        "state": "Tabasco"
+      },
+      {
+        "state": "Tamaulipas"
+      },
+      {
+        "state": "Tlaxcala"
+      },
+      {
+        "state": "Veracruz-Llave"
+      },
+      {
+        "state": "Yucatan"
+      },
+      {
+        "state": "Zacatecas"
+      }
+    ],
+    "name": "Mexico",
+    "alpha2Code": "MX"
+  },
+  {
+    "states": [],
+    "name": "Monaco",
+    "alpha2Code": "MC"
+  },
+  {
+    "states": [
+      {
+        "state": "Arhangay"
+      },
+      {
+        "state": "Bayanhongor"
+      },
+      {
+        "state": "Bayan-Olgiy"
+      },
+      {
+        "state": "Bulgan"
+      },
+      {
+        "state": "Darhan Uul"
+      },
+      {
+        "state": "Dornod"
+      },
+      {
+        "state": "Dornogovi"
+      },
+      {
+        "state": "Dundgovi"
+      },
+      {
+        "state": "Dzavhan"
+      },
+      {
+        "state": "Govi-Altay"
+      },
+      {
+        "state": "Govi-Sumber"
+      },
+      {
+        "state": "Hentiy"
+      },
+      {
+        "state": "Hovd"
+      },
+      {
+        "state": "Hovsgol"
+      },
+      {
+        "state": "Omnogovi"
+      },
+      {
+        "state": "Orhon"
+      },
+      {
+        "state": "Ovorhangay"
+      },
+      {
+        "state": "Selenge"
+      },
+      {
+        "state": "Suhbaatar"
+      },
+      {
+        "state": "Tov"
+      },
+      {
+        "state": "Ulaanbaatar"
+      },
+      {
+        "state": "Uvs"
+      }
+    ],
+    "name": "Mongolia",
+    "alpha2Code": "MN"
+  },
+  {
+    "states": [
+      {
+        "state": "Agadir"
+      },
+      {
+        "state": "Al Hoceima"
+      },
+      {
+        "state": "Azilal"
+      },
+      {
+        "state": "Beni Mellal"
+      },
+      {
+        "state": "Ben Slimane"
+      },
+      {
+        "state": "Boulemane"
+      },
+      {
+        "state": "Casablanca"
+      },
+      {
+        "state": "Chaouen"
+      },
+      {
+        "state": "El Jadida"
+      },
+      {
+        "state": "El Kelaa des Sraghna"
+      },
+      {
+        "state": "Er Rachidia"
+      },
+      {
+        "state": "Essaouira"
+      },
+      {
+        "state": "Fes"
+      },
+      {
+        "state": "Figuig"
+      },
+      {
+        "state": "Guelmim"
+      },
+      {
+        "state": "Ifrane"
+      },
+      {
+        "state": "Kenitra"
+      },
+      {
+        "state": "Khemisset"
+      },
+      {
+        "state": "Khenifra"
+      },
+      {
+        "state": "Khouribga"
+      },
+      {
+        "state": "Laayoune"
+      },
+      {
+        "state": "Larache"
+      },
+      {
+        "state": "Marrakech"
+      },
+      {
+        "state": "Meknes"
+      },
+      {
+        "state": "Nador"
+      },
+      {
+        "state": "Ouarzazate"
+      },
+      {
+        "state": "Oujda"
+      },
+      {
+        "state": "Rabat-Sale"
+      },
+      {
+        "state": "Safi"
+      },
+      {
+        "state": "Settat"
+      },
+      {
+        "state": "Sidi Kacem"
+      },
+      {
+        "state": "Tangier"
+      },
+      {
+        "state": "Tan-Tan"
+      },
+      {
+        "state": "Taounate"
+      },
+      {
+        "state": "Taroudannt"
+      },
+      {
+        "state": "Tata"
+      },
+      {
+        "state": "Taza"
+      },
+      {
+        "state": "Tetouan"
+      },
+      {
+        "state": "Tiznit"
+      }
+    ],
+    "name": "Morocco",
+    "alpha2Code": "MA"
+  },
+  {
+    "states": [
+      {
+        "state": "Cabo Delgado"
+      },
+      {
+        "state": "Gaza"
+      },
+      {
+        "state": "Inhambane"
+      },
+      {
+        "state": "Manica"
+      },
+      {
+        "state": "Maputo"
+      },
+      {
+        "state": "Cidade de Maputo"
+      },
+      {
+        "state": "Nampula"
+      },
+      {
+        "state": "Niassa"
+      },
+      {
+        "state": "Sofala"
+      },
+      {
+        "state": "Tete"
+      },
+      {
+        "state": "Zambezia"
+      }
+    ],
+    "name": "Mozambique",
+    "alpha2Code": "MZ"
+  },
+  {
+    "states": [
+      {
+        "state": "Caprivi"
+      },
+      {
+        "state": "Erongo"
+      },
+      {
+        "state": "Hardap"
+      },
+      {
+        "state": "Karas"
+      },
+      {
+        "state": "Khomas"
+      },
+      {
+        "state": "Kunene"
+      },
+      {
+        "state": "Ohangwena"
+      },
+      {
+        "state": "Okavango"
+      },
+      {
+        "state": "Omaheke"
+      },
+      {
+        "state": "Omusati"
+      },
+      {
+        "state": "Oshana"
+      },
+      {
+        "state": "Oshikoto"
+      },
+      {
+        "state": "Otjozondjupa"
+      }
+    ],
+    "name": "Namibia",
+    "alpha2Code": "NA"
+  },
+  {
+    "states": [],
+    "name": "Nauru",
+    "alpha2Code": "NR"
+  },
+  {
+    "states": [
+      {
+        "state": "Bagmati"
+      },
+      {
+        "state": "Bheri"
+      },
+      {
+        "state": "Dhawalagiri"
+      },
+      {
+        "state": "Gandaki"
+      },
+      {
+        "state": "Janakpur"
+      },
+      {
+        "state": "Karnali"
+      },
+      {
+        "state": "Kosi"
+      },
+      {
+        "state": "Lumbini"
+      },
+      {
+        "state": "Mahakali"
+      },
+      {
+        "state": "Mechi"
+      },
+      {
+        "state": "Narayani"
+      },
+      {
+        "state": "Rapti"
+      },
+      {
+        "state": "Sagarmatha"
+      },
+      {
+        "state": "Seti"
+      }
+    ],
+    "name": "Nepal",
+    "alpha2Code": "NP"
+  },
+  {
+    "states": [
+      {
+        "state": "Drenthe"
+      },
+      {
+        "state": "Flevoland"
+      },
+      {
+        "state": "Friesland"
+      },
+      {
+        "state": "Gelderland"
+      },
+      {
+        "state": "Groningen"
+      },
+      {
+        "state": "Limburg"
+      },
+      {
+        "state": "Noord-Brabant"
+      },
+      {
+        "state": "Noord-Holland"
+      },
+      {
+        "state": "Overijssel"
+      },
+      {
+        "state": "Utrecht"
+      },
+      {
+        "state": "Zeeland"
+      },
+      {
+        "state": "Zuid-Holland"
+      }
+    ],
+    "name": "Netherlands",
+    "alpha2Code": "NL"
+  },
+  {
+    "states": [
+      {
+        "state": "Auckland"
+      },
+      {
+        "state": "Bay of Plenty"
+      },
+      {
+        "state": "Canterbury"
+      },
+      {
+        "state": "Chatham Islands"
+      },
+      {
+        "state": "Gisborne"
+      },
+      {
+        "state": "Hawke's Bay"
+      },
+      {
+        "state": "Manawatu-Wanganui"
+      },
+      {
+        "state": "Marlborough"
+      },
+      {
+        "state": "Nelson"
+      },
+      {
+        "state": "Northland"
+      },
+      {
+        "state": "Otago"
+      },
+      {
+        "state": "Southland"
+      },
+      {
+        "state": "Taranaki"
+      },
+      {
+        "state": "Tasman"
+      },
+      {
+        "state": "Waikato"
+      },
+      {
+        "state": "Wellington"
+      },
+      {
+        "state": "West Coast"
+      }
+    ],
+    "name": "New Zealand",
+    "alpha2Code": "NZ"
+  },
+  {
+    "states": [
+      {
+        "state": "Atlantico Norte"
+      },
+      {
+        "state": "Atlantico Sur"
+      },
+      {
+        "state": "Boaco"
+      },
+      {
+        "state": "Carazo"
+      },
+      {
+        "state": "Chinandega"
+      },
+      {
+        "state": "Chontales"
+      },
+      {
+        "state": "Esteli"
+      },
+      {
+        "state": "Granada"
+      },
+      {
+        "state": "Jinotega"
+      },
+      {
+        "state": "Leon"
+      },
+      {
+        "state": "Madriz"
+      },
+      {
+        "state": "Managua"
+      },
+      {
+        "state": "Masaya"
+      },
+      {
+        "state": "Matagalpa"
+      },
+      {
+        "state": "Nueva Segovia"
+      },
+      {
+        "state": "Rio San Juan"
+      },
+      {
+        "state": "Rivas"
+      }
+    ],
+    "name": "Nicaragua",
+    "alpha2Code": "NI"
+  },
+  {
+    "states": [
+      {
+        "state": "Agadez"
+      },
+      {
+        "state": "Diffa"
+      },
+      {
+        "state": "Dosso"
+      },
+      {
+        "state": "Maradi"
+      },
+      {
+        "state": "Niamey"
+      },
+      {
+        "state": "Tahoua"
+      },
+      {
+        "state": "Tillaberi"
+      },
+      {
+        "state": "Zinder"
+      }
+    ],
+    "name": "Niger",
+    "alpha2Code": "NE"
+  },
+  {
+    "states": [
+      {
+        "state": "Abia"
+      },
+      {
+        "state": "Abuja Federal Capital"
+      },
+      {
+        "state": "Adamawa"
+      },
+      {
+        "state": "Akwa Ibom"
+      },
+      {
+        "state": "Anambra"
+      },
+      {
+        "state": "Bauchi"
+      },
+      {
+        "state": "Bayelsa"
+      },
+      {
+        "state": "Benue"
+      },
+      {
+        "state": "Borno"
+      },
+      {
+        "state": "Cross River"
+      },
+      {
+        "state": "Delta"
+      },
+      {
+        "state": "Ebonyi"
+      },
+      {
+        "state": "Edo"
+      },
+      {
+        "state": "Ekiti"
+      },
+      {
+        "state": "Enugu"
+      },
+      {
+        "state": "Gombe"
+      },
+      {
+        "state": "Imo"
+      },
+      {
+        "state": "Jigawa"
+      },
+      {
+        "state": "Kaduna"
+      },
+      {
+        "state": "Kano"
+      },
+      {
+        "state": "Katsina"
+      },
+      {
+        "state": "Kebbi"
+      },
+      {
+        "state": "Kogi"
+      },
+      {
+        "state": "Kwara"
+      },
+      {
+        "state": "Lagos"
+      },
+      {
+        "state": "Nassarawa"
+      },
+      {
+        "state": "Niger"
+      },
+      {
+        "state": "Ogun"
+      },
+      {
+        "state": "Ondo"
+      },
+      {
+        "state": "Osun"
+      },
+      {
+        "state": "Oyo"
+      },
+      {
+        "state": "Plateau"
+      },
+      {
+        "state": "Rivers"
+      },
+      {
+        "state": "Sokoto"
+      },
+      {
+        "state": "Taraba"
+      },
+      {
+        "state": "Yobe"
+      },
+      {
+        "state": "Zamfara"
+      }
+    ],
+    "name": "Nigeria",
+    "alpha2Code": "NG"
+  },
+  {
+    "states": [
+      {
+        "state": "Akershus"
+      },
+      {
+        "state": "Aust-Agder"
+      },
+      {
+        "state": "Buskerud"
+      },
+      {
+        "state": "Finnmark"
+      },
+      {
+        "state": "Hedmark"
+      },
+      {
+        "state": "Hordaland"
+      },
+      {
+        "state": "More og Romsdal"
+      },
+      {
+        "state": "Nordland"
+      },
+      {
+        "state": "Nord-Trondelag"
+      },
+      {
+        "state": "Oppland"
+      },
+      {
+        "state": "Oslo"
+      },
+      {
+        "state": "Ostfold"
+      },
+      {
+        "state": "Rogaland"
+      },
+      {
+        "state": "Sogn og Fjordane"
+      },
+      {
+        "state": "Sor-Trondelag"
+      },
+      {
+        "state": "Telemark"
+      },
+      {
+        "state": "Troms"
+      },
+      {
+        "state": "Vest-Agder"
+      },
+      {
+        "state": "Vestfold"
+      }
+    ],
+    "name": "Norway",
+    "alpha2Code": "NO"
+  },
+  {
+    "states": [
+      {
+        "state": "Ad Dakhiliyah"
+      },
+      {
+        "state": "Al Batinah"
+      },
+      {
+        "state": "Al Wusta"
+      },
+      {
+        "state": "Ash Sharqiyah"
+      },
+      {
+        "state": "Az Zahirah"
+      },
+      {
+        "state": "Masqat"
+      },
+      {
+        "state": "Musandam"
+      },
+      {
+        "state": "Dhofar"
+      }
+    ],
+    "name": "Oman",
+    "alpha2Code": "OM"
+  },
+  {
+    "states": [
+      {
+        "state": "Balochistan"
+      },
+      {
+        "state": "North-West Frontier Province"
+      },
+      {
+        "state": "Punjab"
+      },
+      {
+        "state": "Sindh"
+      },
+      {
+        "state": "Islamabad Capital Territory"
+      },
+      {
+        "state": "Federally Administered Tribal Areas"
+      }
+    ],
+    "name": "Pakistan",
+    "alpha2Code": "PK"
+  },
+  {
+    "states": [
+      {
+        "state": "Bocas del Toro"
+      },
+      {
+        "state": "Chiriqui"
+      },
+      {
+        "state": "Cocle"
+      },
+      {
+        "state": "Colon"
+      },
+      {
+        "state": "Darien"
+      },
+      {
+        "state": "Herrera"
+      },
+      {
+        "state": "Los Santos"
+      },
+      {
+        "state": "Panama"
+      },
+      {
+        "state": "San Blas"
+      },
+      {
+        "state": "Veraguas"
+      }
+    ],
+    "name": "Panama",
+    "alpha2Code": "PA"
+  },
+  {
+    "states": [
+      {
+        "state": "Bougainville"
+      },
+      {
+        "state": "Central"
+      },
+      {
+        "state": "Chimbu"
+      },
+      {
+        "state": "Eastern Highlands"
+      },
+      {
+        "state": "East New Britain"
+      },
+      {
+        "state": "East Sepik"
+      },
+      {
+        "state": "Enga"
+      },
+      {
+        "state": "Gulf"
+      },
+      {
+        "state": "Madang"
+      },
+      {
+        "state": "Manus"
+      },
+      {
+        "state": "Milne Bay"
+      },
+      {
+        "state": "Morobe"
+      },
+      {
+        "state": "National Capital"
+      },
+      {
+        "state": "New Ireland"
+      },
+      {
+        "state": "Northern"
+      },
+      {
+        "state": "Sandaun"
+      },
+      {
+        "state": "Southern Highlands"
+      },
+      {
+        "state": "Western"
+      },
+      {
+        "state": "Western Highlands"
+      },
+      {
+        "state": "West New Britain"
+      }
+    ],
+    "name": "Papua New Guinea",
+    "alpha2Code": "PG"
+  },
+  {
+    "states": [
+      {
+        "state": "Alto Paraguay"
+      },
+      {
+        "state": "Alto Parana"
+      },
+      {
+        "state": "Amambay"
+      },
+      {
+        "state": "Asuncion"
+      },
+      {
+        "state": "Boqueron"
+      },
+      {
+        "state": "Caaguazu"
+      },
+      {
+        "state": "Caazapa"
+      },
+      {
+        "state": "Canindeyu"
+      },
+      {
+        "state": "Central"
+      },
+      {
+        "state": "Concepcion"
+      },
+      {
+        "state": "Cordillera"
+      },
+      {
+        "state": "Guaira"
+      },
+      {
+        "state": "Itapua"
+      },
+      {
+        "state": "Misiones"
+      },
+      {
+        "state": "Neembucu"
+      },
+      {
+        "state": "Paraguari"
+      },
+      {
+        "state": "Presidente Hayes"
+      },
+      {
+        "state": "San Pedro"
+      }
+    ],
+    "name": "Paraguay",
+    "alpha2Code": "PY"
+  },
+  {
+    "states": [
+      {
+        "state": "Amazonas"
+      },
+      {
+        "state": "Ancash"
+      },
+      {
+        "state": "Apurimac"
+      },
+      {
+        "state": "Arequipa"
+      },
+      {
+        "state": "Ayacucho"
+      },
+      {
+        "state": "Cajamarca"
+      },
+      {
+        "state": "Callao"
+      },
+      {
+        "state": "Cusco"
+      },
+      {
+        "state": "Huancavelica"
+      },
+      {
+        "state": "Huanuco"
+      },
+      {
+        "state": "Ica"
+      },
+      {
+        "state": "Junin"
+      },
+      {
+        "state": "La Libertad"
+      },
+      {
+        "state": "Lambayeque"
+      },
+      {
+        "state": "Lima"
+      },
+      {
+        "state": "Loreto"
+      },
+      {
+        "state": "Madre de Dios"
+      },
+      {
+        "state": "Moquegua"
+      },
+      {
+        "state": "Pasco"
+      },
+      {
+        "state": "Piura"
+      },
+      {
+        "state": "Puno"
+      },
+      {
+        "state": "San Martin"
+      },
+      {
+        "state": "Tacna"
+      },
+      {
+        "state": "Tumbes"
+      },
+      {
+        "state": "Ucayali"
+      }
+    ],
+    "name": "Peru",
+    "alpha2Code": "PE"
+  },
+  {
+    "states": [
+      {
+        "state": "Abra"
+      },
+      {
+        "state": "Agusan del Norte"
+      },
+      {
+        "state": "Agusan del Sur"
+      },
+      {
+        "state": "Aklan"
+      },
+      {
+        "state": "Albay"
+      },
+      {
+        "state": "Antique"
+      },
+      {
+        "state": "Apayao"
+      },
+      {
+        "state": "Aurora"
+      },
+      {
+        "state": "Basilan"
+      },
+      {
+        "state": "Bataan"
+      },
+      {
+        "state": "Batanes"
+      },
+      {
+        "state": "Batangas"
+      },
+      {
+        "state": "Biliran"
+      },
+      {
+        "state": "Benguet"
+      },
+      {
+        "state": "Bohol"
+      },
+      {
+        "state": "Bukidnon"
+      },
+      {
+        "state": "Bulacan"
+      },
+      {
+        "state": "Cagayan"
+      },
+      {
+        "state": "Camarines Norte"
+      },
+      {
+        "state": "Camarines Sur"
+      },
+      {
+        "state": "Camiguin"
+      },
+      {
+        "state": "Capiz"
+      },
+      {
+        "state": "Catanduanes"
+      },
+      {
+        "state": "Cavite"
+      },
+      {
+        "state": "Cebu"
+      },
+      {
+        "state": "Compostela"
+      },
+      {
+        "state": "Davao del Norte"
+      },
+      {
+        "state": "Davao del Sur"
+      },
+      {
+        "state": "Davao Oriental"
+      },
+      {
+        "state": "Eastern Samar"
+      },
+      {
+        "state": "Guimaras"
+      },
+      {
+        "state": "Ifugao"
+      },
+      {
+        "state": "Ilocos Norte"
+      },
+      {
+        "state": "Ilocos Sur"
+      },
+      {
+        "state": "Iloilo"
+      },
+      {
+        "state": "Isabela"
+      },
+      {
+        "state": "Kalinga"
+      },
+      {
+        "state": "Laguna"
+      },
+      {
+        "state": "Lanao del Norte"
+      },
+      {
+        "state": "Lanao del Sur"
+      },
+      {
+        "state": "La Union"
+      },
+      {
+        "state": "Leyte"
+      },
+      {
+        "state": "Maguindanao"
+      },
+      {
+        "state": "Marinduque"
+      },
+      {
+        "state": "Masbate"
+      },
+      {
+        "state": "Mindoro Occidental"
+      },
+      {
+        "state": "Mindoro Oriental"
+      },
+      {
+        "state": "Misamis Occidental"
+      },
+      {
+        "state": "Misamis Oriental"
+      },
+      {
+        "state": "Mountain Province"
+      },
+      {
+        "state": "Negros Occidental"
+      },
+      {
+        "state": "Negros Oriental"
+      },
+      {
+        "state": "North Cotabato"
+      },
+      {
+        "state": "Northern Samar"
+      },
+      {
+        "state": "Nueva Ecija"
+      },
+      {
+        "state": "Nueva Vizcaya"
+      },
+      {
+        "state": "Palawan"
+      },
+      {
+        "state": "Pampanga"
+      },
+      {
+        "state": "Pangasinan"
+      },
+      {
+        "state": "Quezon"
+      },
+      {
+        "state": "Quirino"
+      },
+      {
+        "state": "Rizal"
+      },
+      {
+        "state": "Romblon"
+      },
+      {
+        "state": "Samar"
+      },
+      {
+        "state": "Sarangani"
+      },
+      {
+        "state": "Siquijor"
+      },
+      {
+        "state": "Sorsogon"
+      },
+      {
+        "state": "South Cotabato"
+      },
+      {
+        "state": "Southern Leyte"
+      },
+      {
+        "state": "Sultan Kudarat"
+      },
+      {
+        "state": "Sulu"
+      },
+      {
+        "state": "Surigao del Norte"
+      },
+      {
+        "state": "Surigao del Sur"
+      },
+      {
+        "state": "Tarlac"
+      },
+      {
+        "state": "Tawi-Tawi"
+      },
+      {
+        "state": "Zambales"
+      },
+      {
+        "state": "Zamboanga del Norte"
+      },
+      {
+        "state": "Zamboanga del Sur"
+      },
+      {
+        "state": "Zamboanga Sibugay"
+      }
+    ],
+    "name": "Philippines",
+    "alpha2Code": "PH"
+  },
+  {
+    "states": [
+      {
+        "state": "Greater Poland (Wielkopolskie)"
+      },
+      {
+        "state": "Kuyavian-Pomeranian (Kujawsko-Pomorskie)"
+      },
+      {
+        "state": "Lesser Poland (Malopolskie)"
+      },
+      {
+        "state": "Lodz (Lodzkie)"
+      },
+      {
+        "state": "Lower Silesian (Dolnoslaskie)"
+      },
+      {
+        "state": "Lublin (Lubelskie)"
+      },
+      {
+        "state": "Lubusz (Lubuskie)"
+      },
+      {
+        "state": "Masovian (Mazowieckie)"
+      },
+      {
+        "state": "Opole (Opolskie)"
+      },
+      {
+        "state": "Podlasie (Podlaskie)"
+      },
+      {
+        "state": "Pomeranian (Pomorskie)"
+      },
+      {
+        "state": "Silesian (Slaskie)"
+      },
+      {
+        "state": "Subcarpathian (Podkarpackie)"
+      },
+      {
+        "state": "Swietokrzyskie (Swietokrzyskie)"
+      },
+      {
+        "state": "Warmian-Masurian (Warminsko-Mazurskie)"
+      },
+      {
+        "state": "West Pomeranian (Zachodniopomorskie)"
+      }
+    ],
+    "name": "Poland",
+    "alpha2Code": "PL"
+  },
+  {
+    "states": [
+      {
+        "state": "Aveiro"
+      },
+      {
+        "state": "Acores"
+      },
+      {
+        "state": "Beja"
+      },
+      {
+        "state": "Braga"
+      },
+      {
+        "state": "Braganca"
+      },
+      {
+        "state": "Castelo Branco"
+      },
+      {
+        "state": "Coimbra"
+      },
+      {
+        "state": "Evora"
+      },
+      {
+        "state": "Faro"
+      },
+      {
+        "state": "Guarda"
+      },
+      {
+        "state": "Leiria"
+      },
+      {
+        "state": "Lisboa"
+      },
+      {
+        "state": "Madeira"
+      },
+      {
+        "state": "Portalegre"
+      },
+      {
+        "state": "Porto"
+      },
+      {
+        "state": "Santarem"
+      },
+      {
+        "state": "Setubal"
+      },
+      {
+        "state": "Viana do Castelo"
+      },
+      {
+        "state": "Vila Real"
+      },
+      {
+        "state": "Viseu"
+      }
+    ],
+    "name": "Portugal",
+    "alpha2Code": "PT"
+  },
+  {
+    "states": [
+      {
+        "state": "Ad Dawhah"
+      },
+      {
+        "state": "Al Ghuwayriyah"
+      },
+      {
+        "state": "Al Jumayliyah"
+      },
+      {
+        "state": "Al Khawr"
+      },
+      {
+        "state": "Al Wakrah"
+      },
+      {
+        "state": "Ar Rayyan"
+      },
+      {
+        "state": "Jarayan al Batinah"
+      },
+      {
+        "state": "Madinat ash Shamal"
+      },
+      {
+        "state": "Umm Sa'id"
+      },
+      {
+        "state": "Umm Salal"
+      }
+    ],
+    "name": "Qatar",
+    "alpha2Code": "QA"
+  },
+  {
+    "states": [
+      {
+        "state": "Alba"
+      },
+      {
+        "state": "Arad"
+      },
+      {
+        "state": "Arges"
+      },
+      {
+        "state": "Bacau"
+      },
+      {
+        "state": "Bihor"
+      },
+      {
+        "state": "Bistrita-Nasaud"
+      },
+      {
+        "state": "Botosani"
+      },
+      {
+        "state": "Braila"
+      },
+      {
+        "state": "Brasov"
+      },
+      {
+        "state": "Bucuresti"
+      },
+      {
+        "state": "Buzau"
+      },
+      {
+        "state": "Calarasi"
+      },
+      {
+        "state": "Caras-Severin"
+      },
+      {
+        "state": "Cluj"
+      },
+      {
+        "state": "Constanta"
+      },
+      {
+        "state": "Covasna"
+      },
+      {
+        "state": "Dimbovita"
+      },
+      {
+        "state": "Dolj"
+      },
+      {
+        "state": "Galati"
+      },
+      {
+        "state": "Gorj"
+      },
+      {
+        "state": "Giurgiu"
+      },
+      {
+        "state": "Harghita"
+      },
+      {
+        "state": "Hunedoara"
+      },
+      {
+        "state": "Ialomita"
+      },
+      {
+        "state": "Iasi"
+      },
+      {
+        "state": "Ilfov"
+      },
+      {
+        "state": "Maramures"
+      },
+      {
+        "state": "Mehedinti"
+      },
+      {
+        "state": "Mures"
+      },
+      {
+        "state": "Neamt"
+      },
+      {
+        "state": "Olt"
+      },
+      {
+        "state": "Prahova"
+      },
+      {
+        "state": "Salaj"
+      },
+      {
+        "state": "Satu Mare"
+      },
+      {
+        "state": "Sibiu"
+      },
+      {
+        "state": "Suceava"
+      },
+      {
+        "state": "Teleorman"
+      },
+      {
+        "state": "Timis"
+      },
+      {
+        "state": "Tulcea"
+      },
+      {
+        "state": "Vaslui"
+      },
+      {
+        "state": "Vilcea"
+      },
+      {
+        "state": "Vrancea"
+      }
+    ],
+    "name": "Romania",
+    "alpha2Code": "RO"
+  },
+  {
+    "states": [
+      {
+        "state": "Butare"
+      },
+      {
+        "state": "Byumba"
+      },
+      {
+        "state": "Cyangugu"
+      },
+      {
+        "state": "Gikongoro"
+      },
+      {
+        "state": "Gisenyi"
+      },
+      {
+        "state": "Gitarama"
+      },
+      {
+        "state": "Kibungo"
+      },
+      {
+        "state": "Kibuye"
+      },
+      {
+        "state": "Kigali Rurale"
+      },
+      {
+        "state": "Kigali-ville"
+      },
+      {
+        "state": "Umutara"
+      },
+      {
+        "state": "Ruhengeri"
+      }
+    ],
+    "name": "RWANDA",
+    "alpha2Code": "RW"
+  },
+  {
+    "states": [
+      {
+        "state": "A'ana"
+      },
+      {
+        "state": "Aiga-i-le-Tai"
+      },
+      {
+        "state": "Atua"
+      },
+      {
+        "state": "Fa'asaleleaga"
+      },
+      {
+        "state": "Gaga'emauga"
+      },
+      {
+        "state": "Gagaifomauga"
+      },
+      {
+        "state": "Palauli"
+      },
+      {
+        "state": "Satupa'itea"
+      },
+      {
+        "state": "Tuamasaga"
+      },
+      {
+        "state": "Va'a-o-Fonoti"
+      },
+      {
+        "state": "Vaisigano"
+      }
+    ],
+    "name": "Samoa",
+    "alpha2Code": "WS"
+  },
+  {
+    "states": [
+      {
+        "state": "Acquaviva"
+      },
+      {
+        "state": "Borgo Maggiore"
+      },
+      {
+        "state": "Chiesanuova"
+      },
+      {
+        "state": "Domagnano"
+      },
+      {
+        "state": "Faetano"
+      },
+      {
+        "state": "Fiorentino"
+      },
+      {
+        "state": "Montegiardino"
+      },
+      {
+        "state": "San Marino Citta"
+      },
+      {
+        "state": "Serravalle"
+      }
+    ],
+    "name": "San Marino",
+    "alpha2Code": "SM"
+  },
+  {
+    "states": [
+      {
+        "state": "Al Bahah"
+      },
+      {
+        "state": "Al Hudud ash Shamaliyah"
+      },
+      {
+        "state": "Al Jawf"
+      },
+      {
+        "state": "Al Madinah"
+      },
+      {
+        "state": "Al Qasim"
+      },
+      {
+        "state": "Ar Riyad"
+      },
+      {
+        "state": "Ash Sharqiyah"
+      },
+      {
+        "state": "'Asir"
+      },
+      {
+        "state": "Ha'il"
+      },
+      {
+        "state": "Jizan"
+      },
+      {
+        "state": "Makkah"
+      },
+      {
+        "state": "Najran"
+      },
+      {
+        "state": "Tabuk"
+      }
+    ],
+    "name": "Saudi Arabia",
+    "alpha2Code": "SA"
+  },
+  {
+    "states": [
+      {
+        "state": "Dakar"
+      },
+      {
+        "state": "Diourbel"
+      },
+      {
+        "state": "Fatick"
+      },
+      {
+        "state": "Kaolack"
+      },
+      {
+        "state": "Kolda"
+      },
+      {
+        "state": "Louga"
+      },
+      {
+        "state": "Matam"
+      },
+      {
+        "state": "Saint-Louis"
+      },
+      {
+        "state": "Tambacounda"
+      },
+      {
+        "state": "Thies"
+      },
+      {
+        "state": "Ziguinchor"
+      }
+    ],
+    "name": "Senegal",
+    "alpha2Code": "SN"
+  },
+  {
+    "states": [
+      {
+        "state": "Anse aux Pins"
+      },
+      {
+        "state": "Anse Boileau"
+      },
+      {
+        "state": "Anse Etoile"
+      },
+      {
+        "state": "Anse Louis"
+      },
+      {
+        "state": "Anse Royale"
+      },
+      {
+        "state": "Baie Lazare"
+      },
+      {
+        "state": "Baie Sainte Anne"
+      },
+      {
+        "state": "Beau Vallon"
+      },
+      {
+        "state": "Bel Air"
+      },
+      {
+        "state": "Bel Ombre"
+      },
+      {
+        "state": "Cascade"
+      },
+      {
+        "state": "Glacis"
+      },
+      {
+        "state": "Grand' Anse"
+      },
+      {
+        "state": "Grand' Anse"
+      },
+      {
+        "state": "La Digue"
+      },
+      {
+        "state": "La Riviere Anglaise"
+      },
+      {
+        "state": "Mont Buxton"
+      },
+      {
+        "state": "Mont Fleuri"
+      },
+      {
+        "state": "Plaisance"
+      },
+      {
+        "state": "Pointe La Rue"
+      },
+      {
+        "state": "Port Glaud"
+      },
+      {
+        "state": "Saint Louis"
+      },
+      {
+        "state": "Takamaka"
+      }
+    ],
+    "name": "Seychelles",
+    "alpha2Code": "SC"
+  },
+  {
+    "states": [],
+    "name": "Sierra Leone",
+    "alpha2Code": "SL"
+  },
+  {
+    "states": [],
+    "name": "Singapore",
+    "alpha2Code": "SG"
+  },
+  {
+    "states": [
+      {
+        "state": "Banskobystricky"
+      },
+      {
+        "state": "Bratislavsky"
+      },
+      {
+        "state": "Kosicky"
+      },
+      {
+        "state": "Nitriansky"
+      },
+      {
+        "state": "Presovsky"
+      },
+      {
+        "state": "Trenciansky"
+      },
+      {
+        "state": "Trnavsky"
+      },
+      {
+        "state": "Zilinsky"
+      }
+    ],
+    "name": "Slovakia",
+    "alpha2Code": "SK"
+  },
+  {
+    "states": [
+      {
+        "state": "Ajdovscina"
+      },
+      {
+        "state": "Beltinci"
+      },
+      {
+        "state": "Benedikt"
+      },
+      {
+        "state": "Bistrica ob Sotli"
+      },
+      {
+        "state": "Bled"
+      },
+      {
+        "state": "Bloke"
+      },
+      {
+        "state": "Bohinj"
+      },
+      {
+        "state": "Borovnica"
+      },
+      {
+        "state": "Bovec"
+      },
+      {
+        "state": "Braslovce"
+      },
+      {
+        "state": "Brda"
+      },
+      {
+        "state": "Brezice"
+      },
+      {
+        "state": "Brezovica"
+      },
+      {
+        "state": "Cankova"
+      },
+      {
+        "state": "Celje"
+      },
+      {
+        "state": "Cerklje na Gorenjskem"
+      },
+      {
+        "state": "Cerknica"
+      },
+      {
+        "state": "Cerkno"
+      },
+      {
+        "state": "Cerkvenjak"
+      },
+      {
+        "state": "Crensovci"
+      },
+      {
+        "state": "Crna na Koroskem"
+      },
+      {
+        "state": "Crnomelj"
+      },
+      {
+        "state": "Destrnik"
+      },
+      {
+        "state": "Divaca"
+      },
+      {
+        "state": "Dobje"
+      },
+      {
+        "state": "Dobrepolje"
+      },
+      {
+        "state": "Dobrna"
+      },
+      {
+        "state": "Dobrova-Horjul-Polhov Gradec"
+      },
+      {
+        "state": "Dobrovnik-Dobronak"
+      },
+      {
+        "state": "Dolenjske Toplice"
+      },
+      {
+        "state": "Dol pri Ljubljani"
+      },
+      {
+        "state": "Domzale"
+      },
+      {
+        "state": "Dornava"
+      },
+      {
+        "state": "Dravograd"
+      },
+      {
+        "state": "Duplek"
+      },
+      {
+        "state": "Gorenja Vas-Poljane"
+      },
+      {
+        "state": "Gorisnica"
+      },
+      {
+        "state": "Gornja Radgona"
+      },
+      {
+        "state": "Gornji Grad"
+      },
+      {
+        "state": "Gornji Petrovci"
+      },
+      {
+        "state": "Grad"
+      },
+      {
+        "state": "Grosuplje"
+      },
+      {
+        "state": "Hajdina"
+      },
+      {
+        "state": "Hoce-Slivnica"
+      },
+      {
+        "state": "Hodos-Hodos"
+      },
+      {
+        "state": "Horjul"
+      },
+      {
+        "state": "Hrastnik"
+      },
+      {
+        "state": "Hrpelje-Kozina"
+      },
+      {
+        "state": "Idrija"
+      },
+      {
+        "state": "Ig"
+      },
+      {
+        "state": "Ilirska Bistrica"
+      },
+      {
+        "state": "Ivancna Gorica"
+      },
+      {
+        "state": "Izola-Isola"
+      },
+      {
+        "state": "Jesenice"
+      },
+      {
+        "state": "Jezersko"
+      },
+      {
+        "state": "Jursinci"
+      },
+      {
+        "state": "Kamnik"
+      },
+      {
+        "state": "Kanal"
+      },
+      {
+        "state": "Kidricevo"
+      },
+      {
+        "state": "Kobarid"
+      },
+      {
+        "state": "Kobilje"
+      },
+      {
+        "state": "Kocevje"
+      },
+      {
+        "state": "Komen"
+      },
+      {
+        "state": "Komenda"
+      },
+      {
+        "state": "Koper-Capodistria"
+      },
+      {
+        "state": "Kostel"
+      },
+      {
+        "state": "Kozje"
+      },
+      {
+        "state": "Kranj"
+      },
+      {
+        "state": "Kranjska Gora"
+      },
+      {
+        "state": "Krizevci"
+      },
+      {
+        "state": "Krsko"
+      },
+      {
+        "state": "Kungota"
+      },
+      {
+        "state": "Kuzma"
+      },
+      {
+        "state": "Lasko"
+      },
+      {
+        "state": "Lenart"
+      },
+      {
+        "state": "Lendava-Lendva"
+      },
+      {
+        "state": "Litija"
+      },
+      {
+        "state": "Ljubljana"
+      },
+      {
+        "state": "Ljubno"
+      },
+      {
+        "state": "Ljutomer"
+      },
+      {
+        "state": "Logatec"
+      },
+      {
+        "state": "Loska Dolina"
+      },
+      {
+        "state": "Loski Potok"
+      },
+      {
+        "state": "Lovrenc na Pohorju"
+      },
+      {
+        "state": "Luce"
+      },
+      {
+        "state": "Lukovica"
+      },
+      {
+        "state": "Majsperk"
+      },
+      {
+        "state": "Maribor"
+      },
+      {
+        "state": "Markovci"
+      },
+      {
+        "state": "Medvode"
+      },
+      {
+        "state": "Menges"
+      },
+      {
+        "state": "Metlika"
+      },
+      {
+        "state": "Mezica"
+      },
+      {
+        "state": "Miklavz na Dravskem Polju"
+      },
+      {
+        "state": "Miren-Kostanjevica"
+      },
+      {
+        "state": "Mirna Pec"
+      },
+      {
+        "state": "Mislinja"
+      },
+      {
+        "state": "Moravce"
+      },
+      {
+        "state": "Moravske Toplice"
+      },
+      {
+        "state": "Mozirje"
+      },
+      {
+        "state": "Murska Sobota"
+      },
+      {
+        "state": "Muta"
+      },
+      {
+        "state": "Naklo"
+      },
+      {
+        "state": "Nazarje"
+      },
+      {
+        "state": "Nova Gorica"
+      },
+      {
+        "state": "Novo Mesto"
+      },
+      {
+        "state": "Odranci"
+      },
+      {
+        "state": "Oplotnica"
+      },
+      {
+        "state": "Ormoz"
+      },
+      {
+        "state": "Osilnica"
+      },
+      {
+        "state": "Pesnica"
+      },
+      {
+        "state": "Piran-Pirano"
+      },
+      {
+        "state": "Pivka"
+      },
+      {
+        "state": "Podcetrtek"
+      },
+      {
+        "state": "Podlehnik"
+      },
+      {
+        "state": "Podvelka"
+      },
+      {
+        "state": "Polzela"
+      },
+      {
+        "state": "Postojna"
+      },
+      {
+        "state": "Prebold"
+      },
+      {
+        "state": "Preddvor"
+      },
+      {
+        "state": "Prevalje"
+      },
+      {
+        "state": "Ptuj"
+      },
+      {
+        "state": "Puconci"
+      },
+      {
+        "state": "Race-Fram"
+      },
+      {
+        "state": "Radece"
+      },
+      {
+        "state": "Radenci"
+      },
+      {
+        "state": "Radlje ob Dravi"
+      },
+      {
+        "state": "Radovljica"
+      },
+      {
+        "state": "Ravne na Koroskem"
+      },
+      {
+        "state": "Razkrizje"
+      },
+      {
+        "state": "Ribnica"
+      },
+      {
+        "state": "Ribnica na Pohorju"
+      },
+      {
+        "state": "Rogasovci"
+      },
+      {
+        "state": "Rogaska Slatina"
+      },
+      {
+        "state": "Rogatec"
+      },
+      {
+        "state": "Ruse"
+      },
+      {
+        "state": "Salovci"
+      },
+      {
+        "state": "Selnica ob Dravi"
+      },
+      {
+        "state": "Semic"
+      },
+      {
+        "state": "Sempeter-Vrtojba"
+      },
+      {
+        "state": "Sencur"
+      },
+      {
+        "state": "Sentilj"
+      },
+      {
+        "state": "Sentjernej"
+      },
+      {
+        "state": "Sentjur pri Celju"
+      },
+      {
+        "state": "Sevnica"
+      },
+      {
+        "state": "Sezana"
+      },
+      {
+        "state": "Skocjan"
+      },
+      {
+        "state": "Skofja Loka"
+      },
+      {
+        "state": "Skofljica"
+      },
+      {
+        "state": "Slovenj Gradec"
+      },
+      {
+        "state": "Slovenska Bistrica"
+      },
+      {
+        "state": "Slovenske Konjice"
+      },
+      {
+        "state": "Smarje pri Jelsah"
+      },
+      {
+        "state": "Smartno ob Paki"
+      },
+      {
+        "state": "Smartno pri Litiji"
+      },
+      {
+        "state": "Sodrazica"
+      },
+      {
+        "state": "Solcava"
+      },
+      {
+        "state": "Sostanj"
+      },
+      {
+        "state": "Starse"
+      },
+      {
+        "state": "Store"
+      },
+      {
+        "state": "Sveta Ana"
+      },
+      {
+        "state": "Sveti Andraz v Slovenskih Goricah"
+      },
+      {
+        "state": "Sveti Jurij"
+      },
+      {
+        "state": "Tabor"
+      },
+      {
+        "state": "Tisina"
+      },
+      {
+        "state": "Tolmin"
+      },
+      {
+        "state": "Trbovlje"
+      },
+      {
+        "state": "Trebnje"
+      },
+      {
+        "state": "Trnovska Vas"
+      },
+      {
+        "state": "Trzic"
+      },
+      {
+        "state": "Trzin"
+      },
+      {
+        "state": "Turnisce"
+      },
+      {
+        "state": "Velenje"
+      },
+      {
+        "state": "Velika Polana"
+      },
+      {
+        "state": "Velike Lasce"
+      },
+      {
+        "state": "Verzej"
+      },
+      {
+        "state": "Videm"
+      },
+      {
+        "state": "Vipava"
+      },
+      {
+        "state": "Vitanje"
+      },
+      {
+        "state": "Vodice"
+      },
+      {
+        "state": "Vojnik"
+      },
+      {
+        "state": "Vransko"
+      },
+      {
+        "state": "Vrhnika"
+      },
+      {
+        "state": "Vuzenica"
+      },
+      {
+        "state": "Zagorje ob Savi"
+      },
+      {
+        "state": "Zalec"
+      },
+      {
+        "state": "Zavrc"
+      },
+      {
+        "state": "Zelezniki"
+      },
+      {
+        "state": "Zetale"
+      },
+      {
+        "state": "Ziri"
+      },
+      {
+        "state": "Zirovnica"
+      },
+      {
+        "state": "Zuzemberk"
+      },
+      {
+        "state": "Zrece"
+      }
+    ],
+    "name": "Slovenia",
+    "alpha2Code": "SI"
+  },
+  {
+    "states": [
+      {
+        "state": "Central"
+      },
+      {
+        "state": "Choiseul"
+      },
+      {
+        "state": "Guadalcanal"
+      },
+      {
+        "state": "Honiara"
+      },
+      {
+        "state": "Isabel"
+      },
+      {
+        "state": "Makira"
+      },
+      {
+        "state": "Malaita"
+      },
+      {
+        "state": "Rennell and Bellona"
+      },
+      {
+        "state": "Temotu"
+      },
+      {
+        "state": "Western"
+      }
+    ],
+    "name": "Solomon Islands",
+    "alpha2Code": "SB"
+  },
+  {
+    "states": [
+      {
+        "state": "Awdal"
+      },
+      {
+        "state": "Bakool"
+      },
+      {
+        "state": "Banaadir"
+      },
+      {
+        "state": "Bari"
+      },
+      {
+        "state": "Bay"
+      },
+      {
+        "state": "Galguduud"
+      },
+      {
+        "state": "Gedo"
+      },
+      {
+        "state": "Hiiraan"
+      },
+      {
+        "state": "Jubbada Dhexe"
+      },
+      {
+        "state": "Jubbada Hoose"
+      },
+      {
+        "state": "Mudug"
+      },
+      {
+        "state": "Nugaal"
+      },
+      {
+        "state": "Sanaag"
+      },
+      {
+        "state": "Shabeellaha Dhexe"
+      },
+      {
+        "state": "Shabeellaha Hoose"
+      },
+      {
+        "state": "Sool"
+      },
+      {
+        "state": "Togdheer"
+      },
+      {
+        "state": "Woqooyi Galbeed"
+      }
+    ],
+    "name": "Somalia",
+    "alpha2Code": "SO"
+  },
+  {
+    "states": [
+      {
+        "state": "Eastern Cape"
+      },
+      {
+        "state": "Free State"
+      },
+      {
+        "state": "Gauteng"
+      },
+      {
+        "state": "KwaZulu-Natal"
+      },
+      {
+        "state": "Limpopo"
+      },
+      {
+        "state": "Mpumalanga"
+      },
+      {
+        "state": "North-West"
+      },
+      {
+        "state": "Northern Cape"
+      },
+      {
+        "state": "Western Cape"
+      }
+    ],
+    "name": "South Africa",
+    "alpha2Code": "ZA"
+  },
+  {
+    "states": [
+      {
+        "state": "Andalucia"
+      },
+      {
+        "state": "Aragon"
+      },
+      {
+        "state": "Asturias"
+      },
+      {
+        "state": "Baleares"
+      },
+      {
+        "state": "Ceuta"
+      },
+      {
+        "state": "Canarias"
+      },
+      {
+        "state": "Cantabria"
+      },
+      {
+        "state": "Castilla-La Mancha"
+      },
+      {
+        "state": "Castilla y Leon"
+      },
+      {
+        "state": "Cataluna"
+      },
+      {
+        "state": "Comunidad Valenciana"
+      },
+      {
+        "state": "Extremadura"
+      },
+      {
+        "state": "Galicia"
+      },
+      {
+        "state": "La Rioja"
+      },
+      {
+        "state": "Madrid"
+      },
+      {
+        "state": "Melilla"
+      },
+      {
+        "state": "Murcia"
+      },
+      {
+        "state": "Navarra"
+      },
+      {
+        "state": "Pais Vasco"
+      }
+    ],
+    "name": "Spain",
+    "alpha2Code": "ES"
+  },
+  {
+    "states": [
+      {
+        "state": "Central"
+      },
+      {
+        "state": "North Central"
+      },
+      {
+        "state": "North Eastern"
+      },
+      {
+        "state": "North Western"
+      },
+      {
+        "state": "Sabaragamuwa"
+      },
+      {
+        "state": "Southern"
+      },
+      {
+        "state": "Uva"
+      },
+      {
+        "state": "Western"
+      }
+    ],
+    "name": "Sri Lanka",
+    "alpha2Code": "LK"
+  },
+  {
+    "states": [
+      {
+        "state": "A'ali an Nil"
+      },
+      {
+        "state": "Al Bahr al Ahmar"
+      },
+      {
+        "state": "Al Buhayrat"
+      },
+      {
+        "state": "Al Jazirah"
+      },
+      {
+        "state": "Al Khartum"
+      },
+      {
+        "state": "Al Qadarif"
+      },
+      {
+        "state": "Al Wahdah"
+      },
+      {
+        "state": "An Nil al Abyad"
+      },
+      {
+        "state": "An Nil al Azraq"
+      },
+      {
+        "state": "Ash Shamaliyah"
+      },
+      {
+        "state": "Bahr al Jabal"
+      },
+      {
+        "state": "Gharb al Istiwa'iyah"
+      },
+      {
+        "state": "Gharb Bahr al Ghazal"
+      },
+      {
+        "state": "Gharb Darfur"
+      },
+      {
+        "state": "Gharb Kurdufan"
+      },
+      {
+        "state": "Janub Darfur"
+      },
+      {
+        "state": "Janub Kurdufan"
+      },
+      {
+        "state": "Junqali"
+      },
+      {
+        "state": "Kassala"
+      },
+      {
+        "state": "Nahr an Nil"
+      },
+      {
+        "state": "Shamal Bahr al Ghazal"
+      },
+      {
+        "state": "Shamal Darfur"
+      },
+      {
+        "state": "Shamal Kurdufan"
+      },
+      {
+        "state": "Sharq al Istiwa'iyah"
+      },
+      {
+        "state": "Sinnar"
+      },
+      {
+        "state": "Warab"
+      }
+    ],
+    "name": "Sudan",
+    "alpha2Code": "SD"
+  },
+  {
+    "states": [
+      {
+        "state": "Brokopondo"
+      },
+      {
+        "state": "Commewijne"
+      },
+      {
+        "state": "Coronie"
+      },
+      {
+        "state": "Marowijne"
+      },
+      {
+        "state": "Nickerie"
+      },
+      {
+        "state": "Para"
+      },
+      {
+        "state": "Paramaribo"
+      },
+      {
+        "state": "Saramacca"
+      },
+      {
+        "state": "Sipaliwini"
+      },
+      {
+        "state": "Wanica"
+      }
+    ],
+    "name": "Suriname",
+    "alpha2Code": "SR"
+  },
+  {
+    "states": [
+      {
+        "state": "Hhohho"
+      },
+      {
+        "state": "Lubombo"
+      },
+      {
+        "state": "Manzini"
+      },
+      {
+        "state": "Shiselweni"
+      }
+    ],
+    "name": "Swaziland",
+    "alpha2Code": "SZ"
+  },
+  {
+    "states": [
+      {
+        "state": "Blekinge"
+      },
+      {
+        "state": "Dalarnas"
+      },
+      {
+        "state": "Gavleborgs"
+      },
+      {
+        "state": "Gotlands"
+      },
+      {
+        "state": "Hallands"
+      },
+      {
+        "state": "Jamtlands"
+      },
+      {
+        "state": "Jonkopings"
+      },
+      {
+        "state": "Kalmar"
+      },
+      {
+        "state": "Kronobergs"
+      },
+      {
+        "state": "Norrbottens"
+      },
+      {
+        "state": "Orebro"
+      },
+      {
+        "state": "Ostergotlands"
+      },
+      {
+        "state": "Skane"
+      },
+      {
+        "state": "Sodermanlands"
+      },
+      {
+        "state": "Stockholms"
+      },
+      {
+        "state": "Uppsala"
+      },
+      {
+        "state": "Varmlands"
+      },
+      {
+        "state": "Vasterbottens"
+      },
+      {
+        "state": "Vasternorrlands"
+      },
+      {
+        "state": "Vastmanlands"
+      },
+      {
+        "state": "Vastra Gotalands"
+      }
+    ],
+    "name": "Sweden",
+    "alpha2Code": "SE"
+  },
+  {
+    "states": [
+      {
+        "state": "Aargau"
+      },
+      {
+        "state": "Appenzell Ausser-Rhoden"
+      },
+      {
+        "state": "Appenzell Inner-Rhoden"
+      },
+      {
+        "state": "Basel-Landschaft"
+      },
+      {
+        "state": "Basel-Stadt"
+      },
+      {
+        "state": "Bern"
+      },
+      {
+        "state": "Fribourg"
+      },
+      {
+        "state": "Geneve"
+      },
+      {
+        "state": "Glarus"
+      },
+      {
+        "state": "Graubunden"
+      },
+      {
+        "state": "Jura"
+      },
+      {
+        "state": "Luzern"
+      },
+      {
+        "state": "Neuchatel"
+      },
+      {
+        "state": "Nidwalden"
+      },
+      {
+        "state": "Obwalden"
+      },
+      {
+        "state": "Sankt Gallen"
+      },
+      {
+        "state": "Schaffhausen"
+      },
+      {
+        "state": "Schwyz"
+      },
+      {
+        "state": "Solothurn"
+      },
+      {
+        "state": "Thurgau"
+      },
+      {
+        "state": "Ticino"
+      },
+      {
+        "state": "Uri"
+      },
+      {
+        "state": "Valais"
+      },
+      {
+        "state": "Vaud"
+      },
+      {
+        "state": "Zug"
+      },
+      {
+        "state": "Zurich"
+      }
+    ],
+    "name": "Switzerland",
+    "alpha2Code": "CH"
+  },
+  {
+    "states": [],
+    "name": "Tajikistan",
+    "alpha2Code": "TJ"
+  },
+  {
+    "states": [
+      {
+        "state": "Amnat Charoen"
+      },
+      {
+        "state": "Ang Thong"
+      },
+      {
+        "state": "Buriram"
+      },
+      {
+        "state": "Chachoengsao"
+      },
+      {
+        "state": "Chai Nat"
+      },
+      {
+        "state": "Chaiyaphum"
+      },
+      {
+        "state": "Chanthaburi"
+      },
+      {
+        "state": "Chiang Mai"
+      },
+      {
+        "state": "Chiang Rai"
+      },
+      {
+        "state": "Chon Buri"
+      },
+      {
+        "state": "Chumphon"
+      },
+      {
+        "state": "Kalasin"
+      },
+      {
+        "state": "Kamphaeng Phet"
+      },
+      {
+        "state": "Kanchanaburi"
+      },
+      {
+        "state": "Khon Kaen"
+      },
+      {
+        "state": "Krabi"
+      },
+      {
+        "state": "Krung Thep Mahanakhon"
+      },
+      {
+        "state": "Lampang"
+      },
+      {
+        "state": "Lamphun"
+      },
+      {
+        "state": "Loei"
+      },
+      {
+        "state": "Lop Buri"
+      },
+      {
+        "state": "Mae Hong Son"
+      },
+      {
+        "state": "Maha Sarakham"
+      },
+      {
+        "state": "Mukdahan"
+      },
+      {
+        "state": "Nakhon Nayok"
+      },
+      {
+        "state": "Nakhon Pathom"
+      },
+      {
+        "state": "Nakhon Phanom"
+      },
+      {
+        "state": "Nakhon Ratchasima"
+      },
+      {
+        "state": "Nakhon Sawan"
+      },
+      {
+        "state": "Nakhon Si Thammarat"
+      },
+      {
+        "state": "Nan"
+      },
+      {
+        "state": "Narathiwat"
+      },
+      {
+        "state": "Nong Bua Lamphu"
+      },
+      {
+        "state": "Nong Khai"
+      },
+      {
+        "state": "Nonthaburi"
+      },
+      {
+        "state": "Pathum Thani"
+      },
+      {
+        "state": "Pattani"
+      },
+      {
+        "state": "Phangnga"
+      },
+      {
+        "state": "Phatthalung"
+      },
+      {
+        "state": "Phayao"
+      },
+      {
+        "state": "Phetchabun"
+      },
+      {
+        "state": "Phetchaburi"
+      },
+      {
+        "state": "Phichit"
+      },
+      {
+        "state": "Phitsanulok"
+      },
+      {
+        "state": "Phra Nakhon Si Ayutthaya"
+      },
+      {
+        "state": "Phrae"
+      },
+      {
+        "state": "Phuket"
+      },
+      {
+        "state": "Prachin Buri"
+      },
+      {
+        "state": "Prachuap Khiri Khan"
+      },
+      {
+        "state": "Ranong"
+      },
+      {
+        "state": "Ratchaburi"
+      },
+      {
+        "state": "Rayong"
+      },
+      {
+        "state": "Roi Et"
+      },
+      {
+        "state": "Sa Kaeo"
+      },
+      {
+        "state": "Sakon Nakhon"
+      },
+      {
+        "state": "Samut Prakan"
+      },
+      {
+        "state": "Samut Sakhon"
+      },
+      {
+        "state": "Samut Songkhram"
+      },
+      {
+        "state": "Sara Buri"
+      },
+      {
+        "state": "Satun"
+      },
+      {
+        "state": "Sing Buri"
+      },
+      {
+        "state": "Sisaket"
+      },
+      {
+        "state": "Songkhla"
+      },
+      {
+        "state": "Sukhothai"
+      },
+      {
+        "state": "Suphan Buri"
+      },
+      {
+        "state": "Surat Thani"
+      },
+      {
+        "state": "Surin"
+      },
+      {
+        "state": "Tak"
+      },
+      {
+        "state": "Trang"
+      },
+      {
+        "state": "Trat"
+      },
+      {
+        "state": "Ubon Ratchathani"
+      },
+      {
+        "state": "Udon Thani"
+      },
+      {
+        "state": "Uthai Thani"
+      },
+      {
+        "state": "Uttaradit"
+      },
+      {
+        "state": "Yala"
+      },
+      {
+        "state": "Yasothon"
+      }
+    ],
+    "name": "Thailand",
+    "alpha2Code": "TH"
+  },
+  {
+    "states": [
+      {
+        "state": "Kara"
+      },
+      {
+        "state": "Plateaux"
+      },
+      {
+        "state": "Savanes"
+      },
+      {
+        "state": "Centrale"
+      },
+      {
+        "state": "Maritime"
+      }
+    ],
+    "name": "Togo",
+    "alpha2Code": "TG"
+  },
+  {
+    "states": [],
+    "name": "Tonga",
+    "alpha2Code": "TO"
+  },
+  {
+    "states": [
+      {
+        "state": "Couva"
+      },
+      {
+        "state": "Diego Martin"
+      },
+      {
+        "state": "Mayaro"
+      },
+      {
+        "state": "Penal"
+      },
+      {
+        "state": "Princes Town"
+      },
+      {
+        "state": "Sangre Grande"
+      },
+      {
+        "state": "San Juan"
+      },
+      {
+        "state": "Siparia"
+      },
+      {
+        "state": "Tunapuna"
+      },
+      {
+        "state": "Port-of-Spain"
+      },
+      {
+        "state": "San Fernando"
+      },
+      {
+        "state": "Arima"
+      },
+      {
+        "state": "Point Fortin"
+      },
+      {
+        "state": "Chaguanas"
+      },
+      {
+        "state": "Tobago"
+      }
+    ],
+    "name": "Trinidad and Tobago",
+    "alpha2Code": "TT"
+  },
+  {
+    "states": [
+      {
+        "state": "Ariana (Aryanah)"
+      },
+      {
+        "state": "Beja (Bajah)"
+      },
+      {
+        "state": "Ben Arous (Bin 'Arus)"
+      },
+      {
+        "state": "Bizerte (Banzart)"
+      },
+      {
+        "state": "Gabes (Qabis)"
+      },
+      {
+        "state": "Gafsa (Qafsah)"
+      },
+      {
+        "state": "Jendouba (Jundubah)"
+      },
+      {
+        "state": "Kairouan (Al Qayrawan)"
+      },
+      {
+        "state": "Kasserine (Al Qasrayn)"
+      },
+      {
+        "state": "Kebili (Qibili)"
+      },
+      {
+        "state": "Kef (Al Kaf)"
+      },
+      {
+        "state": "Mahdia (Al Mahdiyah)"
+      },
+      {
+        "state": "Manouba (Manubah)"
+      },
+      {
+        "state": "Medenine (Madanin)"
+      },
+      {
+        "state": "Monastir (Al Munastir)"
+      },
+      {
+        "state": "Nabeul (Nabul)"
+      },
+      {
+        "state": "Sfax (Safaqis)"
+      },
+      {
+        "state": "Sidi Bou Zid (Sidi Bu Zayd)"
+      },
+      {
+        "state": "Siliana (Silyanah)"
+      },
+      {
+        "state": "Sousse (Susah)"
+      },
+      {
+        "state": "Tataouine (Tatawin)"
+      },
+      {
+        "state": "Tozeur (Tawzar)"
+      },
+      {
+        "state": "Tunis"
+      },
+      {
+        "state": "Zaghouan (Zaghwan)"
+      }
+    ],
+    "name": "Tunisia",
+    "alpha2Code": "TN"
+  },
+  {
+    "states": [
+      {
+        "state": "Adana"
+      },
+      {
+        "state": "Adiyaman"
+      },
+      {
+        "state": "Afyonkarahisar"
+      },
+      {
+        "state": "Agri"
+      },
+      {
+        "state": "Aksaray"
+      },
+      {
+        "state": "Amasya"
+      },
+      {
+        "state": "Ankara"
+      },
+      {
+        "state": "Antalya"
+      },
+      {
+        "state": "Ardahan"
+      },
+      {
+        "state": "Artvin"
+      },
+      {
+        "state": "Aydin"
+      },
+      {
+        "state": "Balikesir"
+      },
+      {
+        "state": "Bartin"
+      },
+      {
+        "state": "Batman"
+      },
+      {
+        "state": "Bayburt"
+      },
+      {
+        "state": "Bilecik"
+      },
+      {
+        "state": "Bingol"
+      },
+      {
+        "state": "Bitlis"
+      },
+      {
+        "state": "Bolu"
+      },
+      {
+        "state": "Burdur"
+      },
+      {
+        "state": "Bursa"
+      },
+      {
+        "state": "Canakkale"
+      },
+      {
+        "state": "Cankiri"
+      },
+      {
+        "state": "Corum"
+      },
+      {
+        "state": "Denizli"
+      },
+      {
+        "state": "Diyarbakir"
+      },
+      {
+        "state": "Duzce"
+      },
+      {
+        "state": "Edirne"
+      },
+      {
+        "state": "Elazig"
+      },
+      {
+        "state": "Erzincan"
+      },
+      {
+        "state": "Erzurum"
+      },
+      {
+        "state": "Eskisehir"
+      },
+      {
+        "state": "Gaziantep"
+      },
+      {
+        "state": "Giresun"
+      },
+      {
+        "state": "Gumushane"
+      },
+      {
+        "state": "Hakkari"
+      },
+      {
+        "state": "Hatay"
+      },
+      {
+        "state": "Igdir"
+      },
+      {
+        "state": "Isparta"
+      },
+      {
+        "state": "Istanbul"
+      },
+      {
+        "state": "Izmir"
+      },
+      {
+        "state": "Kahramanmaras"
+      },
+      {
+        "state": "Karabuk"
+      },
+      {
+        "state": "Karaman"
+      },
+      {
+        "state": "Kars"
+      },
+      {
+        "state": "Kastamonu"
+      },
+      {
+        "state": "Kayseri"
+      },
+      {
+        "state": "Kilis"
+      },
+      {
+        "state": "Kirikkale"
+      },
+      {
+        "state": "Kirklareli"
+      },
+      {
+        "state": "Kirsehir"
+      },
+      {
+        "state": "Kocaeli"
+      },
+      {
+        "state": "Konya"
+      },
+      {
+        "state": "Kutahya"
+      },
+      {
+        "state": "Malatya"
+      },
+      {
+        "state": "Manisa"
+      },
+      {
+        "state": "Mardin"
+      },
+      {
+        "state": "Mersin"
+      },
+      {
+        "state": "Mugla"
+      },
+      {
+        "state": "Mus"
+      },
+      {
+        "state": "Nevsehir"
+      },
+      {
+        "state": "Nigde"
+      },
+      {
+        "state": "Ordu"
+      },
+      {
+        "state": "Osmaniye"
+      },
+      {
+        "state": "Rize"
+      },
+      {
+        "state": "Sakarya"
+      },
+      {
+        "state": "Samsun"
+      },
+      {
+        "state": "Sanliurfa"
+      },
+      {
+        "state": "Siirt"
+      },
+      {
+        "state": "Sinop"
+      },
+      {
+        "state": "Sirnak"
+      },
+      {
+        "state": "Sivas"
+      },
+      {
+        "state": "Tekirdag"
+      },
+      {
+        "state": "Tokat"
+      },
+      {
+        "state": "Trabzon"
+      },
+      {
+        "state": "Tunceli"
+      },
+      {
+        "state": "Usak"
+      },
+      {
+        "state": "Van"
+      },
+      {
+        "state": "Yalova"
+      },
+      {
+        "state": "Yozgat"
+      },
+      {
+        "state": "Zonguldak"
+      }
+    ],
+    "name": "Turkey",
+    "alpha2Code": "TR"
+  },
+  {
+    "states": [
+      {
+        "state": "Ahal Welayaty (Ashgabat)"
+      },
+      {
+        "state": "Balkan Welayaty (Balkanabat)"
+      },
+      {
+        "state": "Dashoguz Welayaty"
+      },
+      {
+        "state": "Lebap Welayaty (Turkmenabat)"
+      },
+      {
+        "state": "Mary Welayaty"
+      }
+    ],
+    "name": "Turkmenistan",
+    "alpha2Code": "TM"
+  },
+  {
+    "states": [
+      {
+        "state": "Adjumani"
+      },
+      {
+        "state": "Apac"
+      },
+      {
+        "state": "Arua"
+      },
+      {
+        "state": "Bugiri"
+      },
+      {
+        "state": "Bundibugyo"
+      },
+      {
+        "state": "Bushenyi"
+      },
+      {
+        "state": "Busia"
+      },
+      {
+        "state": "Gulu"
+      },
+      {
+        "state": "Hoima"
+      },
+      {
+        "state": "Iganga"
+      },
+      {
+        "state": "Jinja"
+      },
+      {
+        "state": "Kabale"
+      },
+      {
+        "state": "Kabarole"
+      },
+      {
+        "state": "Kaberamaido"
+      },
+      {
+        "state": "Kalangala"
+      },
+      {
+        "state": "Kampala"
+      },
+      {
+        "state": "Kamuli"
+      },
+      {
+        "state": "Kamwenge"
+      },
+      {
+        "state": "Kanungu"
+      },
+      {
+        "state": "Kapchorwa"
+      },
+      {
+        "state": "Kasese"
+      },
+      {
+        "state": "Katakwi"
+      },
+      {
+        "state": "Kayunga"
+      },
+      {
+        "state": "Kibale"
+      },
+      {
+        "state": "Kiboga"
+      },
+      {
+        "state": "Kisoro"
+      },
+      {
+        "state": "Kitgum"
+      },
+      {
+        "state": "Kotido"
+      },
+      {
+        "state": "Kumi"
+      },
+      {
+        "state": "Kyenjojo"
+      },
+      {
+        "state": "Lira"
+      },
+      {
+        "state": "Luwero"
+      },
+      {
+        "state": "Masaka"
+      },
+      {
+        "state": "Masindi"
+      },
+      {
+        "state": "Mayuge"
+      },
+      {
+        "state": "Mbale"
+      },
+      {
+        "state": "Mbarara"
+      },
+      {
+        "state": "Moroto"
+      },
+      {
+        "state": "Moyo"
+      },
+      {
+        "state": "Mpigi"
+      },
+      {
+        "state": "Mubende"
+      },
+      {
+        "state": "Mukono"
+      },
+      {
+        "state": "Nakapiripirit"
+      },
+      {
+        "state": "Nakasongola"
+      },
+      {
+        "state": "Nebbi"
+      },
+      {
+        "state": "Ntungamo"
+      },
+      {
+        "state": "Pader"
+      },
+      {
+        "state": "Pallisa"
+      },
+      {
+        "state": "Rakai"
+      },
+      {
+        "state": "Rukungiri"
+      },
+      {
+        "state": "Sembabule"
+      },
+      {
+        "state": "Sironko"
+      },
+      {
+        "state": "Soroti"
+      },
+      {
+        "state": "Tororo"
+      },
+      {
+        "state": "Wakiso"
+      },
+      {
+        "state": "Yumbe"
+      }
+    ],
+    "name": "Uganda",
+    "alpha2Code": "UG"
+  },
+  {
+    "states": [
+      {
+        "state": "Cherkasy"
+      },
+      {
+        "state": "Chernihiv"
+      },
+      {
+        "state": "Chernivtsi"
+      },
+      {
+        "state": "Crimea"
+      },
+      {
+        "state": "Dnipropetrovs'k"
+      },
+      {
+        "state": "Donets'k"
+      },
+      {
+        "state": "Ivano-Frankivs'k"
+      },
+      {
+        "state": "Kharkiv"
+      },
+      {
+        "state": "Kherson"
+      },
+      {
+        "state": "Khmel'nyts'kyy"
+      },
+      {
+        "state": "Kirovohrad"
+      },
+      {
+        "state": "Kiev"
+      },
+      {
+        "state": "Kyyiv"
+      },
+      {
+        "state": "Luhans'k"
+      },
+      {
+        "state": "L'viv"
+      },
+      {
+        "state": "Mykolayiv"
+      },
+      {
+        "state": "Odesa"
+      },
+      {
+        "state": "Poltava"
+      },
+      {
+        "state": "Rivne"
+      },
+      {
+        "state": "Sevastopol'"
+      },
+      {
+        "state": "Sumy"
+      },
+      {
+        "state": "Ternopil'"
+      },
+      {
+        "state": "Vinnytsya"
+      },
+      {
+        "state": "Volyn'"
+      },
+      {
+        "state": "Zakarpattya"
+      },
+      {
+        "state": "Zaporizhzhya"
+      },
+      {
+        "state": "Zhytomyr"
+      }
+    ],
+    "name": "Ukraine",
+    "alpha2Code": "UA"
+  },
+  {
+    "states": [
+      {
+        "state": "Abu Dhabi"
+      },
+      {
+        "state": "'Ajman"
+      },
+      {
+        "state": "Al Fujayrah"
+      },
+      {
+        "state": "Sharjah"
+      },
+      {
+        "state": "Dubai"
+      },
+      {
+        "state": "Ra's al Khaymah"
+      },
+      {
+        "state": "Umm al Qaywayn"
+      }
+    ],
+    "name": "United Arab Emirates",
+    "alpha2Code": "AE"
+  },
+  {
+    "states": [],
+    "name": "United Kingdom",
+    "alpha2Code": "GB"
+  },
+  {
+    "states": [
+      {
+        "state": "Alabama"
+      },
+      {
+        "state": "Alaska"
+      },
+      {
+        "state": "Arizona"
+      },
+      {
+        "state": "Arkansas"
+      },
+      {
+        "state": "California"
+      },
+      {
+        "state": "Colorado"
+      },
+      {
+        "state": "Connecticut"
+      },
+      {
+        "state": "Delaware"
+      },
+      {
+        "state": "District of Columbia"
+      },
+      {
+        "state": "Florida"
+      },
+      {
+        "state": "Georgia"
+      },
+      {
+        "state": "Hawaii"
+      },
+      {
+        "state": "Idaho"
+      },
+      {
+        "state": "Illinois"
+      },
+      {
+        "state": "Indiana"
+      },
+      {
+        "state": "Iowa"
+      },
+      {
+        "state": "Kansas"
+      },
+      {
+        "state": "Kentucky"
+      },
+      {
+        "state": "Louisiana"
+      },
+      {
+        "state": "Maine"
+      },
+      {
+        "state": "Maryland"
+      },
+      {
+        "state": "Massachusetts"
+      },
+      {
+        "state": "Michigan"
+      },
+      {
+        "state": "Minnesota"
+      },
+      {
+        "state": "Mississippi"
+      },
+      {
+        "state": "Missouri"
+      },
+      {
+        "state": "Montana"
+      },
+      {
+        "state": "Nebraska"
+      },
+      {
+        "state": "Nevada"
+      },
+      {
+        "state": "New Hampshire"
+      },
+      {
+        "state": "New Jersey"
+      },
+      {
+        "state": "New Mexico"
+      },
+      {
+        "state": "New York"
+      },
+      {
+        "state": "North Carolina"
+      },
+      {
+        "state": "North Dakota"
+      },
+      {
+        "state": "Ohio"
+      },
+      {
+        "state": "Oklahoma"
+      },
+      {
+        "state": "Oregon"
+      },
+      {
+        "state": "Pennsylvania"
+      },
+      {
+        "state": "Rhode Island"
+      },
+      {
+        "state": "South Carolina"
+      },
+      {
+        "state": "South Dakota"
+      },
+      {
+        "state": "Tennessee"
+      },
+      {
+        "state": "Texas"
+      },
+      {
+        "state": "Utah"
+      },
+      {
+        "state": "Vermont"
+      },
+      {
+        "state": "Virginia"
+      },
+      {
+        "state": "Washington"
+      },
+      {
+        "state": "West Virginia"
+      },
+      {
+        "state": "Wisconsin"
+      },
+      {
+        "state": "Wyoming"
+      }
+    ],
+    "name": "United States",
+    "alpha2Code": "US"
+  },
+  {
+    "states": [
+      {
+        "state": "Artigas"
+      },
+      {
+        "state": "Canelones"
+      },
+      {
+        "state": "Cerro Largo"
+      },
+      {
+        "state": "Colonia"
+      },
+      {
+        "state": "Durazno"
+      },
+      {
+        "state": "Flores"
+      },
+      {
+        "state": "Florida"
+      },
+      {
+        "state": "Lavalleja"
+      },
+      {
+        "state": "Maldonado"
+      },
+      {
+        "state": "Montevideo"
+      },
+      {
+        "state": "Paysandu"
+      },
+      {
+        "state": "Rio Negro"
+      },
+      {
+        "state": "Rivera"
+      },
+      {
+        "state": "Rocha"
+      },
+      {
+        "state": "Salto"
+      },
+      {
+        "state": "San Jose"
+      },
+      {
+        "state": "Soriano"
+      },
+      {
+        "state": "Tacuarembo"
+      },
+      {
+        "state": "Treinta y Tres"
+      }
+    ],
+    "name": "Uruguay",
+    "alpha2Code": "UY"
+  },
+  {
+    "states": [
+      {
+        "state": "Andijon Viloyati"
+      },
+      {
+        "state": "Buxoro Viloyati"
+      },
+      {
+        "state": "Farg'ona Viloyati"
+      },
+      {
+        "state": "Jizzax Viloyati"
+      },
+      {
+        "state": "Namangan Viloyati"
+      },
+      {
+        "state": "Navoiy Viloyati"
+      },
+      {
+        "state": "Qashqadaryo Viloyati"
+      },
+      {
+        "state": "Qaraqalpog'iston Respublikasi"
+      },
+      {
+        "state": "Samarqand Viloyati"
+      },
+      {
+        "state": "Sirdaryo Viloyati"
+      },
+      {
+        "state": "Surxondaryo Viloyati"
+      },
+      {
+        "state": "Toshkent Shahri"
+      },
+      {
+        "state": "Toshkent Viloyati"
+      },
+      {
+        "state": "Xorazm Viloyati"
+      }
+    ],
+    "name": "Uzbekistan",
+    "alpha2Code": "UZ"
+  },
+  {
+    "states": [
+      {
+        "state": "Malampa"
+      },
+      {
+        "state": "Penama"
+      },
+      {
+        "state": "Sanma"
+      },
+      {
+        "state": "Shefa"
+      },
+      {
+        "state": "Tafea"
+      },
+      {
+        "state": "Torba"
+      }
+    ],
+    "name": "Vanuatu",
+    "alpha2Code": "VU"
+  },
+  {
+    "states": [
+      {
+        "state": "Amazonas"
+      },
+      {
+        "state": "Anzoategui"
+      },
+      {
+        "state": "Apure"
+      },
+      {
+        "state": "Aragua"
+      },
+      {
+        "state": "Barinas"
+      },
+      {
+        "state": "Bolivar"
+      },
+      {
+        "state": "Carabobo"
+      },
+      {
+        "state": "Cojedes"
+      },
+      {
+        "state": "Delta Amacuro"
+      },
+      {
+        "state": "Dependencias Federales"
+      },
+      {
+        "state": "Distrito Federal"
+      },
+      {
+        "state": "Falcon"
+      },
+      {
+        "state": "Guarico"
+      },
+      {
+        "state": "Lara"
+      },
+      {
+        "state": "Merida"
+      },
+      {
+        "state": "Miranda"
+      },
+      {
+        "state": "Monagas"
+      },
+      {
+        "state": "Nueva Esparta"
+      },
+      {
+        "state": "Portuguesa"
+      },
+      {
+        "state": "Sucre"
+      },
+      {
+        "state": "Tachira"
+      },
+      {
+        "state": "Trujillo"
+      },
+      {
+        "state": "Vargas"
+      },
+      {
+        "state": "Yaracuy"
+      },
+      {
+        "state": "Zulia"
+      }
+    ],
+    "name": "Venezuela",
+    "alpha2Code": "VE"
+  },
+  {
+    "states": [
+      {
+        "state": "Abyan"
+      },
+      {
+        "state": "'Adan"
+      },
+      {
+        "state": "Ad Dali'"
+      },
+      {
+        "state": "Al Bayda'"
+      },
+      {
+        "state": "Al Hudaydah"
+      },
+      {
+        "state": "Al Jawf"
+      },
+      {
+        "state": "Al Mahrah"
+      },
+      {
+        "state": "Al Mahwit"
+      },
+      {
+        "state": "'Amran"
+      },
+      {
+        "state": "Dhamar"
+      },
+      {
+        "state": "Hadramawt"
+      },
+      {
+        "state": "Hajjah"
+      },
+      {
+        "state": "Ibb"
+      },
+      {
+        "state": "Lahij"
+      },
+      {
+        "state": "Ma'rib"
+      },
+      {
+        "state": "Sa'dah"
+      },
+      {
+        "state": "San'a'"
+      },
+      {
+        "state": "Shabwah"
+      },
+      {
+        "state": "Ta'izz"
+      }
+    ],
+    "name": "Yemen",
+    "alpha2Code": "YE"
+  },
+  {
+    "states": [
+      {
+        "state": "Central"
+      },
+      {
+        "state": "Copperbelt"
+      },
+      {
+        "state": "Eastern"
+      },
+      {
+        "state": "Luapula"
+      },
+      {
+        "state": "Lusaka"
+      },
+      {
+        "state": "Northern"
+      },
+      {
+        "state": "North-Western"
+      },
+      {
+        "state": "Southern"
+      },
+      {
+        "state": "Western"
+      }
+    ],
+    "name": "Zambia",
+    "alpha2Code": "ZM"
+  },
+  {
+    "states": [
+      {
+        "state": "Bulawayo"
+      },
+      {
+        "state": "Harare"
+      },
+      {
+        "state": "Manicaland"
+      },
+      {
+        "state": "Mashonaland Central"
+      },
+      {
+        "state": "Mashonaland East"
+      },
+      {
+        "state": "Mashonaland West"
+      },
+      {
+        "state": "Masvingo"
+      },
+      {
+        "state": "Matabeleland North"
+      },
+      {
+        "state": "Matabeleland South"
+      },
+      {
+        "state": "Midlands"
+      }
+    ],
+    "name": "Zimbabwe",
+    "alpha2Code": "ZW"
+  }
+]
