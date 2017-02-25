@@ -1,5 +1,6 @@
 import com.imalhasaranga.Countries;
 import com.imalhasaranga.Country;
+import com.imalhasaranga.Location;
 import com.imalhasaranga.State;
 
 import java.util.List;
@@ -18,5 +19,8 @@ public class Test {
         //State info
         List<State> countryStates = country.getStates();
         System.out.println(countryStates.size());
+
+        List<Location> locations = countries.getLocations();
+        System.out.println(locations.size());
     }
 }

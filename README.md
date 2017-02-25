@@ -36,6 +36,9 @@ Utility Maven Library for Getting the com.imalhasaranga.Countries and Correspond
   Country country = countries.getCountryByAlpha2Code("US");
         //com.imalhasaranga.State info
   List<State> countryStates = country.getStates();
+        // get all locations  
+  List<Location> locations = countries.getLocations();
+       
 
 
 ````
